@@ -1,0 +1,404 @@
+
+CLINICAL REVIEW 
+European Heart Journal (2020) 0, 1–11 doi:10.1093/eurheartj/ehaa586 Prevention 
+
+Salt and cardiovascular disease: insufficient evidence to recommend low sodium intake 
+Martin O’Donnell1,2,3*, Andrew Mente2,3, Michael H. Alderman4, Adrian J.B. Brady5, Rafael Diaz6, Rajeev Gupta7, Patricio Lo´pez-Jaramillo 8, Friedrich C. Luft9, Thomas F. Lu¨scher10, Giuseppe Mancia 11, Johannes F.E. Mann12, 
+13 14
+
+David McCarron , Martin McKee , Franz H. Messerli15, Lynn L. Moore16, 
+18 19
+
+Jagat Narula17, Suzanne Oparil , Milton Packer , Dorairaj Prabhakaran20, Alta Schutte 21, Karen Sliwa22, Jan A. Staessen23, Clyde Yancy24, and Salim Yusuf2,3 
+1HRB-Clinical Research Facility, NUI Galway, Newcastle Road, Galway, Ireland; 2Population Health Research Institute, McMaster University, Hamilton, ON, Canada; 3Hamilton Health Sciences, Hamilton, ON, Canada; 4Department of Epidemiology and Population Health, Albert Einstein College of Medicine, Bronx, NY, USA; 5Department of Cardiology, University of Glasgow, Glasgow, UK; 6Instituto Cardiovascular de Rosario, Estudios Cl´nicos Latinoame´rica, Rosario, Argentina; 7Academic Research Development Unit, Rajasthan University of Health Sciences, Jaipur, Rajasthan, India; 8Fundacio´n Oftalmolo´gica de Santander, Instituto Masira, Universidad de Santander, Bucaramanga, Santander, Colombia; 9D Experimental and Clinical Research Center, Max-Delbru¨ck Center for Molecular Medicine, Medical Faculty of the Charite´, Berlin, Germany; 10Center for Molecular Cardiology, University of Zurich, Switzerland; 11Department of Medicine and Surgery, University Milano-Bicocca, Milan, Italy; 12KfH Kidney Center, Munich, Germany; 13Private practice, Portland, OR 97209, USA; 14London School of Hygiene and Tropical Medicine, London, UK; 15Department of Cardiology, Inselspital, Bern, Switzerland; 16Preventive Medicine and Epidemiology, Department of Medicine, Boston University School of Medicine, Boston, MA, USA; 17The Mount Sinai Medical Centre, New York, NY, USA; 18Department of Medicine, University of Alabama at Birmingham, Birmingham, Alabama, USA; 19Baylor Hear and Vascular Institute, Baylor University Medical Centre, Dallas, TX, USA; 20Centre for Chronic Conditions & Injuries, Public Health Foundation of India, Gurugram, India; 21The George Institute for Global Health, Level 5, 1 King Street, Newtown, New South Wales 2042, Australia; 22Department of Medicine, University of Cape Town, Cape Town, South Africa; 23Department of Cardiovascular Diseases, University of Leuven, Leuven, Belgium; and 24Division of Cardiology, Department of Medicine, Feinberg School of Medicine, Northwestern University, 676 N Saint Claire, Chicago, IL, USA 
+Received 11 October 2019; revised 9 December 2019; editorial decision 29 June 2020; accepted 10 July 2020 
+Several blood pressure guidelines recommend low sodium intake (<2.3 g/day, 100 mmol, 5.8 g/day of salt) for the entire population, on the premise that reductions in sodium intake, irrespective of the levels, will lower blood pressure, and, in turn, reduce cardiovascular disease occurrence. These guidelines have been developed without effective interventions to achieve sustained low sodium intake in free-living individuals, without a feasible method to estimate sodium intake reliably in individuals, and without high-quality evidence that low sodium intake reduces cardiovascular events (compared with moderate intake). In this review, we examine whether the recommendation for low sodium intake, reached by current guideline panels, is supported by robust evidence. Our review provides a counterpoint to the current recommendation for low sodium intake and suggests that a speci.c low sodium intake target (e.g. <2.3 g/day) for individuals may be un­feasible, of uncertain effect on other dietary factors and of unproven effectiveness in reducing cardiovascular disease. We contend that current evidence, despite methodological limitations, suggests that most of the world’s population consume a moderate range of dietary sodium (2.3–4.6g/day; 1–2 teaspoons of salt) that is not associated with increased cardiovascular risk, and that the risk of cardiovascular disease increases when sodium intakes exceed 5 g/day. While current evidence has limitations, and there are differences of opinion in in­terpretation of existing evidence, it is reasonable, based upon observational studies, to suggest a population-level mean target of <5 g/day in populations with mean sodium intake of >5 g/day, while awaiting the results of large randomized controlled trials of sodium reduction on incidence of cardiovascular events and mortality. 
+................................................................................................................................................................................................... 
+Keywords Salt • Diet • Cardiovascular • Prevention 
+Downloaded from https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaa586/5917753 by guest on 04 October 2020 
+* Corresponding author. Tel: þ353-91-494098, Email: martin.odonnell@nuigalway.ie Published on behalf of the European Society of Cardiology. All rights reserved. VC The Author(s) 2020. For permissions, please email: journals.permissions@oup.com. 
+M. O’Donnell et al. 
+
+
+Introduction 
+Several blood pressure guidelines recommend low sodium intake (<2.3 g/day, 100 mmol sodium, ~1 teaspoon of salt, Table 1) for the entire population, on the premise that reductions in sodium intake, ir­respective of the levels, will lower blood pressure, and, in turn, re­duce cardiovascular disease occurrence.1–5 
+Some advocates of low sodium intake contend that it is unnecessary to set a lower limit of unsafe sodium intake, and that the current range of average sodium intake is harmful to all (majority of most populations have intake be­tween 2.3 and 4.6 g/day (100–200 mmol/day), ~1–2 teaspoons of salt).5–7 
+However, sodium is an essential nutrient, required for nor­mal cardiovascular physiology and health, and therefore expected to have a physiologic ‘healthy’ range of intake, as is the case for other es­sential electrolytes8,9 
+(Figure 1). Sodium is most often (>90%) con­sumed in the form of sodium chloride (salt), and sodium homeostasis is tightly governed by numerous neurohormonal and central neuro­physiologic mechanisms.8,9 
+One role of sodium, among many, is to maintain intravascular volume, as the main extracellular cation in the body. Infusion, or ingestion, of sodium chloride has a pressor effect in most people, which is the rationale for using sodium chloride infu­sions in acute shock and increasing daily sodium intake among those with symptomatic orthostatic hypotension.10 
+Sodium is also the main cation governing osmolality and a positive sodium balance shifts dose-response curves of angiotensin or noradrenalin to the left.9 
+Sodium also appears to have a role in immune modulation.11 
+
+Consistent with its physiologic role, increased sodium intake is associated with increases in blood pressure in most, but not all, indi­viduals.12 
+Extreme reductions in sodium intake, as part of a multi­component dietary therapy, were first reported for heart failure in 186613 
+(constituent of a milk diet), and as part of a rice diet in manag­ing malignant hypertension in 1949.14,15 
+Subsequent clinical trials, 
+
+
+............................................................................................................................................................................. 
+conducted mainly in the 1980s and 90 s, reported modest group-level reductions in mean blood pressure when lowering sodium in­take in those with hypertension or pre-hypertension. The largest of these trials, Trial of Nonpharmacological Intervention in the Elderly (TONE)16 
+and Trial of Hypertension Prevention (TOHP-II),17 
+tar­geted sodium intakes of <1.8 g/day, and achieved modest reductions in sodium intake (1 g/day) to mean levels of 2.3–3.2 g/day through intensive individual dietary counselling, and resulted in modest reduc­tions in mean blood pressure, over 2 years of follow-up. The Dietary Approaches to Stop Hypertension-Sodium (DASH-Sodium) trial,18 
+a 30-day cross-over trial (n = 412), had the greatest influence on the specific target in current sodium intake guidelines; it reported reductions in blood pressure with sodium intake reduced to <1.5 g/ day when food intake was entirely controlled by the investigators. At the time this trial was published, it was generally assumed that any reductions in blood pressure, regardless of intervention or mechan­ism, would result in reductions in cardiovascular events at the popu­lation level and in a reduction in individual risk.19,20 
+Subsequent guidelines placed greater emphasis on a specific sodium intake target of <1.5 g/day for those with hypertension, directly implementing find­ings from the DASH-Sodium trial.18 
+Today, most dietary guidelines recommend low sodium intake (<2.3 g/day), albeit with slightly differ­ent targets (e.g. WHO recommend <2.0 g/day, American Heart Association recommends a target of <2.3 and <1.5 g/day in high-risk individuals).1–4 
+Mean sodium intake globally is estimated at 3.95 g/day 21; therefore, achieving currently recommended low sodium intake levels will require a dramatic alteration in dietary patterns, something that would be difficult to achieve in free-living individuals, especially in regions where most sodium intake is derived from non-discretionary sources (e.g. processed foods), necessitating major changes to intake, and/or sodium content of manufactured foods.22,23 
+
+These guidelines were originally developed without effective inter­ventions to achieve sustained low sodium intake in free-living individ­uals, without a feasible method to estimate sodium intake reliably in individuals and without high-quality evidence that low sodium intake reduces cardiovascular events (compared with moderate intake). To date, these critical deficits remain. 
+With few exceptions,24,25 
+the recommendation for low sodium in­take has been remarkably resistant to change or challenge, even with evolution in our understanding of physiology of sodium26 
+and in­creasingly strong evidence that the relation of sodium intake with car­diovascular events is J-shaped.27–31 
+These prospective cohort studies reporting a J-shaped association of sodium intake and cardiovascular events provide contradictory evidence for the fundamental assump­tion upon which all guidelines are based, that all reductions in sodium intake will translate directly into less cardiovascular disease. From a health policy perspective, the current message from prospective co­hort studies is mostly consistent, that high sodium intake (>4.6 g/day) is associated with higher mortality and cardiovascular risk, compared with average sodium intakes of 2.3–4.6 g/day. However, no convinc­ing evidence exists (including from randomized controlled trials) of a significantly lower cardiovascular risk with low sodium intake (<2.3 g/day) compared with moderate (average) intake.24 
+Guideline recommendations for low sodium intake were first introduced at a time when there was limited evidence on the association of sodium intake and cardiovascular events. As evidence has evolved, most guideline panels have been reluctant to incorporate the findings from 
+Table 1 Categories of sodium (salt) intake 
+
+Sodium intake categories Sodium (salt) g/day Sodium (mmol/day) ~Teaspoons of salt 
+.................................................................................................................................................................................................................... 
+Low sodium intake Sodium <2.3 g/day (salt <5.75 g/day) Sodium <100 mmol <1 teaspoon of salt Moderate sodium intake Sodium 2.3–4.6 g/day (salt 5.75–11.5 g/day) Sodium 100–200 mmol/day 1–2 teaspoons of salt High sodium intake Sodium >4.6 g/day (Salt 11.5 g/day) Sodium >200 mmol/day >2 teaspoons of salt 
+these large, more recent, epidemiologic studies into evolving thinking and recommendations. Most guideline panels have not seriously con­sidered the substantial body of work that contradicts a ‘low sodium’ recommendation. 
+In 2013, an independent review of the evidence by the National Academy of Medicine (NAM) concluded there to be insufficient evi­dence to support a recommendation of low sodium intake for car­diovascular prevention.25 
+However, in 2019, a re-constituted panel5 
+provided a strong recommendation for low sodium intake, despite the absence of any new evidence to support low sodium intake for cardiovascular prevention, and substantially more data, e.g. on 100 000 people from Prospective Urban Rural Epidemiology (PURE) study29 
+and 300 000 people from the UK-Biobank study,32 
+suggesting that the range of sodium intake between 2.3 and 4.6 g/day is more likely to be optimal. Observational studies have inherent limitations 
+(e.g. potential for reverse causation or confounding despite extensive adjustments for covariates and inability to evaluate the effects of interventional reductions in sodium intake). However, in the absence of large randomized controlled trial data demonstrating the efficacy and safety of reducing sodium intake to low levels (<2.3 g/day), ob­servational studies provide the ‘best available evidence’ of the associ­ation of exposures like sodium intake and long-term cardiovascular risk in populations. 
+In this review, we examine whether the recommendation for low sodium intake, reached by current guideline panels, is supported by robust evidence. Our review provides a counterpoint to the current recommendation for low sodium intake. We suggest that a specific low sodium intake target (e.g. <2.3 g/day) for individuals may be un­feasible, have uncertain consequences for other dietary factors, and have unproven effectiveness in reducing cardiovascular disease. We contend that current evidence, despite methodological limitations, suggests that most of the world’s population consume a moderate range of dietary sodium (1–2 teaspoons of salt) that is not associated with increased cardiovascular risk, and that the risk of cardiovascular disease increases when sodium intakes exceed 5 g/day. 
+
+
+Can we measure sodium (salt) intake adequately? 
+A key obstacle to making specific, individual-level recommendations on sodium intake (e.g. <2.3 g/day) is the lack of a valid and reliable method to objectively quantify sodium intake in individuals. The use of multiple 24-h urine collections is the accepted reference method, but this approach is impractical in clinical practice and for very large population studies.33 
+Dietary assessment tools, including food fre­quency questionnaire (FFQs), 24-h dietary recalls, and dietary 
+
+............................................................................................................................................... 
+records, while more convenient, are time-consuming and difficult to complete with a high degree of accuracy.34 
+Dietary records and country-specific validated 24-h dietary recall measures have been reported to provide a reasonably good estimate of sodium intake and appear to be superior to FFQs which provide poor estimates of individual intake.35,36 
+Finally, subjective self-categorization of individu­als into high, medium, and low sodium intake is unreliable.37 
+All diet­ary questionnaires, especially FFQs, require validation in different populations with distinct dietary patterns and different sources of so­dium intake. 
+The absence of a convenient and valid method to estimate sodium intake in individuals has implications for current recommendations. Unlike other risk factor recommendations (e.g. blood pressure, glu­cose, or cholesterol), members of the public are unable to access valid and reliable estimates of their sodium intake, and are therefore, unable to interpret or implement a recommendation to consume specific levels of salt per day. 
+For population-level studies, large sample sizes are essential to minimize random error and obtain sufficiently precise estimates of sodium intake. In this context, obtaining even single 24-h urine collec­tions can be challenging, especially for generalizable national and international population studies. In one single country volunteer study,38 
+the non-completion rate for 24-h urine collection was 18%. Given the importance of developing a simple, reliable, and valid measure of sodium intake, considerable attention has been given to formula-derived estimates using single measurements of urinary sodium (conceptually similar to estimating eGFR).39 
+
+A number of formula-based approaches have been published, including one for use with a fasting early morning sample and others for use with random (or spot) urines.40,41 
+While none of these approaches is appropriate for individual-level estimates of sodium in­take, they have been used for population-level estimates in large epi­demiologic studies.29,32 
+For example, the PURE study examined sodium intake in over 100 000 individuals from 17 countries based on formula-derived estimates of 24-h urinary excretion of sodium from a single fasting urine sample (as a surrogate for intake).29,42 
+Intraclass correlation (ICC) for single urine-formula-derived estimates of 24-h urinary sodium excretion vs. actual 24-h collections are good (e.g. 
+0.71 in the PURE validation study).42 
+
+Use of the Kawasaki formula (estimated from fasting urine estimate of sodium and clinical variables) to calculate 24-h sodium intake from a fasting measurement has been criticized.5,40,43,44 
+However, these criticisms rely heavily on studies that misused the formula by not using a fasting urine sample, using an incorrect timing of urine collec­tions or not following protocol for the reference method (e.g. did not check for or exclude those with incomplete 24-h urine collec­tions), resulting in biased estimates due to incorrect 
+
+M. O’Donnell et al. 
+
+Table 2 Sample size needed for detection of anticipated relative risk associations of low vs. moderate (average) so­dium intake 
+Event rate of major Sample size per sodium Sample size per 
+aa a
+vascular events intake group, by relative risk (5 year) sodium intake group, 
+................................. ................................................................ 
+by relative risk (10 year) 
+.......................................... 
+
+5 years 10 years 10% 15% 20% 10% 15% 20% 
+.................................................................................................................................................................................................................... 
+Primary prevention population 2.3% 5.1% 69 932 31 802 18 292 30 587 13 899 7989 Secondary prevention or high-risk population 5.3% 11.2% 29 368 13 344 7670 12 985 5890 3379 
+aComposite of myocardial infarction, stroke, hospitalization for heart failure and cardiovascular death. Sample size based on a = 0.05, b = 0.8, and does not account for loss to follow-up. Sample size is per sodium intake group. 
+methodology.40,43,44 
+The World Health Organisation (WHO) con­siders spot/fasting urine assessment of sodium intake for population studies to be appropriate for measuring mean sodium intake.45 
+
+To demonstrate associations between an essential nutrient and a health outcome, the method of measurement needs to categorize individuals into different groups of mean sodium intake with methods suitable for large generalizable studies. Given that the rates of cardio­vascular events and mortality in healthy populations are low (<1% per year), very large sample sizes are required to detect differences between categories of sodium intake, especially since the relative dif­ferences in outcome rates between those with high, moderate, or low sodium intake are expected to be modest (e.g. relative risk of 10% to 20%). Table 2 
+illustrates approximate sample sizes within so­dium intake categories that would be required to detect different relative risks in primary and secondary cardiovascular prevention populations. For example, a study with over 10 000 participants per sodium intake group followed for 5 or 10 years would be needed to detect a 15% relative risk reduction in a primary prevention popula­tion. Therefore, measurement approaches with adequate validity and reliability that are sufficiently practical and feasible to use in large sam­ples size are needed to provide much needed evidence. 
+We employed the designation of low, moderate, and high sodium intake (Table 1), which are based on current recommended intake (low), average intake (moderate), and above average intake (high), and selected categories that equate to teaspoons of salt, for ease of practical interpretation. 
+Conclusions 
+(1) 
+The majority of the world consumes 2.3–4.6 g/day of sodium with fewer than 5–10% consuming <2.3 g/day, so there is limited human experience on the long-term associations of very low sodium intake with health outcomes. 
+
+(2) 
+A specific sodium intake target of <2.3 g/day cannot be imple­mented at an individual level, as there is no feasible, valid method for estimating sodium intake in individuals. 
+
+(3) 
+Estimating population-level mean intakes is feasible with validated formula-derived estimates with single urine samples, when used ap­propriately (e.g. Kawasaki formula with fasting morning sample). 
+
+(4) 
+Dietary (24 h) recalls and records may be used to estimate mean in­take but tend to underestimate sodium intake (compared with 24-h urinary collections) and are impractical in large studies. All self-report methods are subject to reporting bias. 
+
+
+.................................................................................................................................. 
+
+
+Salt and health 
+Physiology 
+The importance of sodium to human physiology suggests that its as­sociation with health is likely to be J-shaped.46 
+Sodium is an essential nutrient, required for numerous physiologic processes, and is tightly regulated by numerous processes (renal, endocrine, immune, and neural, in the regulation of serum osmolality) to maintain serum so­dium within normal range.8 
+Sodium exchange with potassium is a key part of the action potential of human cells. Salt appetite, first described by Richter in 1936, refers to the physiological pursuit of salt in diet, and falls under regulatory controls; this concept is sup­ported by ecological evidence of stability in populations.47 
+In most people, normal kidneys are capable of excreting large amounts of so­dium when intake is high, or can excrete very little sodium when in­take is low. This ability to excrete sodium is impaired in the presence of low potassium diets.48 
+
+Our understanding of the physiology of sodium intake, storage, and excretion continues to evolve. For example, recent evidence sug­gests that sodium excretion demonstrates circa-septan variability and that the majority of sodium is stored in skin, subcutaneous lymphatic networks and in muscle and bone, and sodium storage is partly regu­lated by the immune system (suggesting a potential evolutionary anti­septic role), for which sodium appears to have a modulating effect.49,50 
+The level of sodium intake affects the renin-angiotensin­aldosterone system (RAAS); low sodium intake activates the RAAS (Figure 2), as shown in short-term studies,53,54 
+and increased plasma renin levels are associated with increased cardiovascular risk.55,56 
+Activation of the sympathetic nervous system with impairment of re­flex homeostatic control has been reported with low sodium in­take.57,58 
+Large reductions in sodium intake also affect cardiovascular dynamics, including baroreflex-mediated regulation. In animal models, low sodium intake is associated with attenuated pressor responses during stress (e.g. septic shock),59,60 
+and with impairment in barore­flex function and adverse neuro-adrenergic effects. Low sodium in­take also appears to affect membrane sodium transport, with reductions in sodium efflux in animal studies.61 
+Niche hunter-gatherer populations with very low sodium intake have been reported to have a low prevalence of hypertension and excessive ac­tivation of the RAAS62, but the long-term effects of low sodium in­take on health cannot be evaluated in these populations, as their mean life expectancy was short (40 years). In animal studies, high 
+
+
+Figure 2 (A and B) Association of sodium intake with (A) plasma renin activity and systolic blood pressure; and (B) mortality and car­diovascular events (adapted from and O’Donnell et al.51 
+and Brunner and Gavras52). 
+sodium intake is associated with aortic hypertrophy and develop­ment of extracellular matrix, leading to increased arterial stiffness and alternations in vascular smooth muscle cells, which are reversed with reduced sodium intake. The association of high sodium intake and ar­terial stiffness appears to be independent of blood pressure effects.63 
+In human studies, high sodium intake is associated with vascular struc­ture and function, with high sodium intake is also associated with increased carotid intimal wall thickness, arterial stiffness index, but the pattern of association suggests a J-shaped relationship.64 
+
+
+
+Historical perspective 
+Salt has been credited with facilitating the transition from hunter-gatherer to settled communities, as it permitted preservation of food during winter months. The concept that salt is essential to life resulted in its prominence in many rituals and religious ceremonies in diverse cultures. Intuitively, manual workers understood the need for replacement of salt and water, as both were obvious constituents of sweat, and the innate behavioural drive for both water and salt is now known to be driven by robust neurohormonal control.7 
+The word ‘salary’ (from the Latin ‘salarium’) originated as payment to Roman soldiers to purchase salt, reflecting its importance to daily life. In selecting the salt tax to protest British rule, Gandhi stated that ‘next to water and air, salt is perhaps the most vital to health’, appre­ciating its visceral appeal to the general population. The British colo­nizers of India understood the critical importance of salt to life and so imposed heavy taxes on salt to increase their revenues, resulting in large surges in mortality in parts of India under British rule during the hot months.65 
+Ecologically, the countries with the highest mean life 
+
+............................................................................................................................................................................. 
+expectancy are many of those with the highest mean sodium intake, although a curvilinear association is suggested by an analysis of 182 countries.66 
+Sodium reduction has fallen in and out of favour in the management of heart failure since and is now finally being evaluated in large clinical trials.67 
+
+An important dietary transition has been the change in sources of sodium intake, which may be derived from discretionary (e.g. table salt added to meals) or non-discretionary sources (part of pre­prepared foods, e.g. bread). There has been a gradual increase in diet­ary sodium from non-discretionary sources, most marked in high-income countries. Non-discretionary sources of salt intake account for 75–80% of salt intake in Europe and North America, but lower in other regions (e.g. China and Africa).68 
+The food industry adds salt to foods to extend shelf-life and/or to improve taste. With the increase in non-discretionary sources of sodium, there is less individual-level control of intake and reduced ability to estimate sodium intake in the diet (as it is hidden within foods). However, sodium intake appears to be tightly regulated through a central neural mechanism, which appears to have translated into stable mean intake of sodium in popu­lation, despite transitions in sources of sodium intake.8,46 
+
+
+
+Epidemiology 
+Blood pressure 
+Overall, there is convincing epidemiologic evidence of a monotonic, curvilinear association of sodium intake and blood pressure at the population level. INTERSALT was the first large international study to examine the association of sodium intake and blood pressure cross-sectionally, included randomly sampled participants aged 20– 50 years from 52 centres in 39 countries (n = 10 079) who provided a 24-h urine collection for sodium, and reported in 1988. The INTERSALT study12,69 
+reported a positive association between so­dium intake and blood pressure in 33 of 53 centres (statistically sig­nificant in 8), and the Scottish Heart study,70 
+published at the same time, reported no significant association. The largest international study to report on the association of sodium intake and blood pres­sure was the Prospective Urban Rural Epidemiology (PURE) study,71 
+which included 102 216 adults from 18 countries. PURE reported a positive curvilinear association of sodium intake with blood pressure (2.11/0.78 mmHg per 1 g/day increase in sodium), which was only sig­nificant for sodium intakes above 3 g/day and strongest in those with consumption above 5 g/day (2.58 mmHg per 1 g/day increase in so­dium). The association between sodium intake and blood pressure was stronger in older populations, those with hypertension and those consuming lower potassium diets. The largest cohort study to report on the association of sodium intake and blood pressure was the re­cent UK-Biobank study,32 
+which also found a positive association of sodium intake with blood pressure, with an effect size generally con­sistent with results of prior observational studies. The EPOGH/ FLEMINGHO study72 
+examined the association of baseline sodium intake (measured with 24-h urine collections) with change in blood pressure after 6 years follow-up (n = 1499) and reported an increase in systolic blood pressure (1.71 mmHg per 2.3 g/day increase in so­dium intake), after adjusting for covariates. 
+Some individuals are more sensitive to the pressor effects of increased sodium intake, a condition termed ‘salt sensitivity’.73 
+Identification of genetic polymorphisms that are associated with both hypertension and ‘salt sensitivity’ is an intensive area of research.74 
+
+M. O’Donnell et al. 
+
+For example, studies report a gene–diet interaction between salt in­take and the angiotensin I-converting enzyme insertion-deletion poly­morphism (CAE I/D) for development of hypertension.75 
+The current clinical relevance of salt sensitivity is uncertain, as the defin­ition and identification of salt-sensitive populations lack uniformity, al­though people who develop hypertension appear to have a greater increase in blood pressure for a given increase in sodium intake, com­pared to those who do not develop hypertension. It is suggested, however, that identification of key polymorphisms may facilitate a fu­ture personalized approach to sodium intake recommendations. 
+Cardiovascular events 
+Numerous prospective cohort studies have evaluated the association of sodium intake (using different measurement methodologies) with cardiovascular events and mortality.76 
+Most meta-analyses of these studies compared the lowest quantile of sodium intake with highest quantile, rather than evaluating the totality of data, thereby assuming a linear association.77,78 
+In contrast, Graudal et al.28 
+included all cate­gories of intake and found a J-shaped association of sodium intake with mortality and cardiovascular events, with an increased risk above 4.6 g/day and below 2.7 g/day, compared with moderate intake. Findings from this meta-analysis were consistent across methods used to estimate sodium intake. Since that meta-analysis, two large studies have been published,29,32 
+one international study (PURE, n = 101 945, 7.2 years of follow-up),29 
+and the UK-Biobank (n = 322 624, 7.0 years of follow-up),32 
+both employing formula-derived estimates of 24-h urinary sodium excretion (proxy for in­take). The PURE study reported a J-shaped association between so­dium excretion and cardiovascular event incidence (CVD) incidence and mortality, with lowest risk between 3 and 5 g of sodium per day, consistent with the previous meta-analysis.28 
+The PURE study reported that the increased risk associated with high sodium intake was largely confined to those with hypertension,29 
+a finding also sup­ported by the PREVEND study,79 
+and the PURE study also found that the risk associated with high sodium intake was mitigated in those with high potassium intake and higher-quality diets.80 
+The PURE study also found a community-level (n = 369 communities) association of mean sodium intake with cardiovascular risk, observing that only communities with high sodium intake (>5 g/day) had increased car­diovascular risk associated with sodium intake.81 
+The UK-Biobank study reported no significant association of sodium intake with car­diovascular events, although there was a suggested J-shaped pattern of association with mortality.32,82 
+
+The association of low sodium intake with increased risk of cardio­vascular events and mortality has been questioned on the basis that it has only been reported in studies using formula-derived estimates of sodium intake derived from spot urines.5,40,43,44 
+However, it is im­portant to note that the increased risk associated with low sodium in­take (compared to moderate intake) has been reported in a number of studies that employed 24-h urine collections, namely the EPOGH/ FLEMINGHO study (n = 3681),72 
+PREVEND study31 
+(n =7330), the CRIC study (n = 3757 for myocardial infarction),83 
+and a study by Alderman et al.84 
+(n = 2937). 
+In 2019, Dietary Reference Intakes for Sodium and Potassium5 
+released by the US National Academy of Medicine (NAM) did not take into account evidence from the above cohort studies and meta­
+............................................................................................................................................................................. 
+analyses that supported an increased risk of cardiovascular events or mortality with low sodium intake (J-shaped relationship). Instead, the report focused on observational follow-up of the control group of the TOHP trial (n = 2275; 193 cardiovascular events or deaths).85 
+The report concluded that there was a linear association of sodium intake with cardiovascular events, although there was lack of a statis­tically significant difference in risk comparing those with low sodium intake (<2.3 g/d) to moderate sodium intake (2.3–4.6 g/d), i.e. conclu­sions were not supported by evidence of a statistical difference be­tween these intake groups.85 
+The decision to include this analysis from TOHP as the main representative of observational research appeared to be based on its use of repeated 24-h urinary estimates of sodium intake. 
+The discordant associations of sodium intake with blood pressure (positive) and cardiovascular events (inverse) when sodium intake transitions from moderate intake to low intake levels likely relates to competing ‘off-target’ adverse effects of low sodium intake on RAAS, other neurohormonal activation, baroreflex integrity, potentially dys­function in membrane sodium transport, and perhaps effects of other related dietary factors (e.g. potassium intake) (Figure 2). Inherent limi­tations of observational research studies, including the potential for residual confounding and reverse causation, preclude definitive con­clusions on a causal association of sodium intake and clinical out­comes, which require clinical trials.86 
+
+
+Clinical trials 
+Blood pressure 
+Numerous clinical trials have evaluated the effects of reducing so­dium intake on blood pressure. Most (>95%) were short-term trials (<6 months) with relatively small samples sizes.53,54 
+
+Feeding trials 
+The largest ‘feeding’ clinical trial was the DASH-Sodium trial, which included 412 participants with pre-hypertension.18 
+This was a 3 2 factorial trial that evaluated three different levels of sodium intake (3.3, 2.5, and 1.5 g/day) consumed for 30 days and compared a DASH diet pattern with a control diet pattern. It reported a reduction in blood pressure with lower sodium intake (change in systolic blood pressure of -2.1 mmHg on reduction from 3.3 g/day to 2.5 g sodium, -4.6 mmHg on further reduction to 1.5 g sodium when consuming the control diet, and -1.3 and -1.7 mmHg when consuming the DASH diet, respectively). The blood pressure reduction was most marked in those consuming the control diet, in which the background potassium intake (1.56 g/day) was lower than in the typical US diet 
+(2.6 g/day),87 
+which may have enhanced the effects of sodium reduc­tion on blood pressure in the trial.88 
+Findings from the DASH-Sodium trial were very influential on the subsequent specific recom­mendation of a sodium intake of <1.5 g/day as the optimal target for the entire adult population. 
+Intensive dietary counselling 
+Of clinical trials evaluating a counselling/educational intervention, the TOHP-II trial is the largest (n = 2382) to examine the effect of longer-term sodium reduction on blood pressure (mean duration of follow­up was 36 months).17 
+TOHP-II employed a 2 2 factorial design that also evaluated an educational intervention for weight loss. Mean so­dium intake at 18 months was 3.1 g/day (3.2 g/day at 36 months) despite targeting a sodium intake of <1.8 g/day in the intervention group, indicating that a target of <2.3 g/day was not achievable even in the controlled setting of a clinical trial making substantial efforts to lower sodium. The mean sodium intake in the control group was 
+3.9 g/day (4.0 g/day at 36 months). The difference in systolic blood pressure between sodium intake groups was 2.9 mmHg at 6 months, 
+2.0 mmHg at 18 months, and 1.2 mmHg at 36 months. The reduction in frequency of hypertension in the intervention group also dimin­ished over time [risk ratio of 0.61 (P = 0.04) at 6 months, 0.88 (P = 0.28) at 18 months, and 0.82 (P = 0.05) at study end].17 
+The pri­mary outcome measure in TOHP-II, mean change in diastolic blood pressure, was not statistically significantly different between sodium reduction and control groups at 36 months (-0.6 mmHg; P = 0.1). 
+The TONE trial16 
+evaluated a similar counselling/educational inter­vention in older adults (60–80 years) with controlled hypertension on a single antihypertensive agent (n = 975). Among obese partici­pants (n = 585), the trial design was a 2 2 factorial, evaluating both sodium reduction diet and weight loss programme compared with control. In the non-obese group, the trial compared sodium reduc­tion diet to control. At 90 days after the introduction of the interven­tion, blood pressure was reduced by 3.4 mmHg systolic in the intervention group (P<0.01). Withdrawal of antihypertensive therapy began after 90 days of the intervention. Thirty months later, a larger proportion of patients in the sodium intervention group were taking no antihypertensive therapy or had a blood pressure <150 mmHg systolic and <90 mmHg diastolic (and no evidence of cardiovascular disease) compared to control (38% vs. 24%; P <0.001). 
+Meta-analyses of clinical trials have reported mean reductions in blood pressure with reductions in sodium intake generally consistent with findings from prospective cohort studies.78,89 
+In one meta-analysis of 36 blood pressure clinical trials (n = 6736), a reduction in sodium intake was associated with a reduction in blood pressure (-3.39/-1.54 mmHg), greater in participants with hypertension (-4.06/ 
+2.26 mmHg) than those without hypertension (-1.38/0.58 mmHg).78 
+Subgroup analyses performed by differing duration of clinical trial fol­low-up78 
+reported between-group differences in blood pressure of -4.07/1.67 mmHg for trials at <3 months (31 trials; n = 3351), -1.91/ 
+1.33 mmHg for trials at 3–6 months (5 trials; n = 2817), and -0.88/ 
+0.45 mmHg at more than 6 months (3 trials; n = 2862), raising the possibility that long-term compensatory mechanisms may counteract the initial reduction in blood pressure from lowering salt intake. 
+These data demonstrate the challenges of achieving, and sustaining, a low sodium intake (<2.3 g/day) in free-living populations, despite relatively intense dietary counselling, and indicate that reducing so­dium intake does reduce blood pressure, but the antihypertensive effects of sodium reduction may diminish over time. In both the TONE and TOHP-II trials,16,17 
+the control group did not receive a dietary counselling intervention (e.g. advice on healthy diet without a focus on salt intake), thus the investigators were unable to determine the independent effects of sodium reduction, unrelated to overall improvements in diet quality. 
+Household/community level 
+An educational intervention targeting school children to reduce household salt intake in a cluster randomized controlled trial in China (28 schools, 832 members of families) reported a reduction in so­dium intake (mean effect on sodium intake for intervention versus 
+
+............................................................................................................................................................................. 
+control was -0.76 g/day in children and -1.16g/day in adults (P<0.001). While systolic blood pressure increased in both intervention and control groups during follow-up, the increase was significantly less in the sodium reduction intervention group, with a mean effect -0.8mmHg in children (P=0.51) and -2.3mmHg in adults (P<0.05).90 
+An earlier trial (n = 2211) that compared an educational programme (employing mass media techniques) in one town with a control town in Belgium reported a reduction in sodium intake (0.58 g/day) but no difference in mean change in blood pressure between intervention and control town after 5 years of follow-up.91 
+
+Salt substitution 
+Clinical trials have evaluated the blood pressure effects of salt substi­tutes (low sodium salt), usually achieved by reducing the proportion of NaCl by about 45–65% and replacing it with KCl or MgSO2,an intervention most applicable in populations with high discretionary salt use (e.g. China). A meta-analysis of these clinical trials (five clinical trials, n = 1974) reported a reduction in blood pressure (-4.9/ -1.5 mmHg) with use of salt substitutes, over a period of 6 months to 2years.92 
+
+A cluster randomized controlled trial in China (China Rural Health Initiative-Sodium Reduction Study) randomized 120 villages to the intervention (community-based health education programme and ac­cess to salt substitution-reduced sodium and added potassium) or control. Thirty of the intervention villages had price subsidies, as salt substitute is more expensive than regular salt.93 
+Among 1295 partici­pants in 60 intervention villages (1063 with urine assessment), there was a 0.32 g lower sodium intake (P = 0.03) on follow-up compared to control (1272 participants, 1001 with urine assessments). There was no statistically significant difference in blood pressure (-1.1/ 
+0.7 mmHg, P = 0.39 and 0.34, respectively) between groups. 
+
+
+Cardiovascular events/heart failure 
+No large individual-level randomized controlled trial designed to de­termine the effect of low sodium intake on clinical outcomes, includ­ing cardiovascular events and mortality, has been completed or published. 
+Primary prevention of CVD 
+A cluster randomized controlled trial (n = 1981, 30 months of follow­up) conducted in the kitchens of five veteran’s retirement homes in Taiwan, which increased potassium consumption and reduced so­dium consumption through use of potassium-enriched salt, found a reduction in cardiovascular mortality (HR 0.59; 95%CI 0.37–0.95) in those assigned to the higher potassium-lower sodium group.94 
+The trial was analysed using individuals as the unit, rather than using cluster-level data. Moreover, in that trial, sodium intake was esti­mated to be reduced from about 5.2 to 3.8 g/day (based on a sub­sample); with an increase in potassium intake in the intervention group. 
+Meta-analyses of clinical trials of dietary salt reduction that reported cardiovascular events, either during the intervention period or during extended observational follow-up, have come to differing conclusions. A Cochrane review of clinical trials reporting cardiovas­cular events, including the observational follow-up of the TOHP tri­als97 
+and the trial by Chang et al.94 
+concluded ‘there is insufficient 
+
+M. O’Donnell et al. 
+
+power to confirm clinically important effects’, but did report a 19% reduction in CVD in one analysis (RR 0.81; 0.66–0.98; six clinical trials, n = 5762) with no significant effect on mortality.95 
+Another meta-analysis of these clinical trials (without one small trial included by the Cochrane review) by the recent NAM panel also reported a clinically important risk reduction in cardiovascular events (RR 0.72; 0.59–0.89; five clinical trials) and suggested a reduction in mortality (RR 0.89; 0.78–1.01; four clinical trials).7 
+The evidence was judged to be of moderate strength and was referenced as a key piece of evidence to support recommending low sodium intake. In a more recent umbrella review (‘meta-analysis of meta-analyses’), the authors reported moderate-certainty evidence for reduced salt in­take to decrease risk of all-cause mortality in normotensive individu­als (RR 0.90; 0.85–0.95) and cardiovascular mortality in hypertensive individuals (RR 0.67; 0.46–0.99).96 
+
+While findings from these meta-analyses suggest benefit from so­dium reduction strategies (in conjunction with other dietary changes, 
+e.g. increased potassium intake), they do not address the effect of low sodium intake (<2.3 g/day) per se, since neither the observational follow-up of the TOHP-II trial nor the trial by Chang et al., the two largest studies in the meta-analysis), achieved the currently recom­mended low sodium intake target in the intervention groups. Moreover, there was a 23% loss to follow-up in the TOHP trial for cardiovascular outcomes, but complete follow-up for mortality.97 
+
+Findings from these meta-analyses provide an impetus to carry-out large definitive long-term randomized controlled trials to determine the effect of lowering sodium intake on cardiovascular events in order to provide high-quality evidence to inform future guideline recommendations. 
+The Salt Substitute and Stroke Study (SSaSS), a large cluster randomized controlled trial of 600 villages with over 21 000 partici­pants followed over 5 years, is being undertaken in China to evaluate the effects of salt substitution with high potassium on stroke risk in individuals with either prior stroke or at high risk of stroke.98 
+Findings from the SSaSS trial will have important implications for population-level approaches to prevention of stroke in high-risk populations with high discretionary sodium intake. However, as this trial is evalu­ating salt substitution in a region with high sodium intake, it is unlikely to provide an answer to the effects of low sodium intake, or distin­guish the effect of lowering sodium intake alone, vs. that due to increased potassium on stroke risk. 
+Secondary prevention of cardiovascular events 
+No clinical trial has reported the independent effect of lowering so­dium intake on cardiovascular events in patients with prior cardiovas­cular events. 
+Heart failure 
+Ongoing research is examining the role of reducing sodium intake in heart failure, both to prevent events (recurrent hospitalization and mortality) and to achieve symptomatic improvement. To date, evi­dence to support, or dispute, low sodium intake for patients with heart failure is inconsistent. An observational analysis of the Heart Failure Adherence and Retention trial (HART)99 
+reported a higher risk of death and hospitalization for heart failure among those randomized to restricted sodium intake, compared with those 
+............................................................................................................................................................................. 
+randomized to unrestricted sodium intake, delivered within a multi­component intervention. In contrast, Colin-Ramirez et al.100 
+reported lower mortality and re-hospitalization rates in the group allocated to restricted sodium intake (2–2.4 g/day) compared with an unrestricted recommendation. A meta-analysis of nine studies (n = 479) evaluating reduced sodium intake in patients with heart fail­ure found no evidence to support or refute benefit or harm.101 
+Two ongoing randomized controlled trials are evaluating intensive dietary counselling to reduce sodium intake to a target of 1.5 g/day in the Sodium-HF102 
+(n = 1000) and <2.0 g/day in the SALT trial103 
+(n = 250), compared with usual care. 
+Guideline recommendations for sodium intake in patients with heart failure have evolved with the new evidence, and the Heart Failure Association of the European Society of Cardiology (ESC) removed the formal guideline recommendation to reduce salt intake in 2012, due to lack of evidence.104 
+In the 2016 ESC heart failure guideline,105 
+the panel report ‘little evidence that specific lifestyle ad­vice improves quality of life or prognosis’. While a sodium intake tar­get was not included as a specific ‘level of evidence’ recommendation, the panel listed reducing sodium intake (in patients with a sodium in­take of >2.4 g/day) as a key topic to include in patient education sessions. 
+
+Conclusions 
+(1) 
+There is a positive curvilinear association of sodium intake and blood pressure, with the largest magnitude of effect observed in those consuming high sodium, older adults, hypertensives and those consuming low potassium diets. 
+
+(2) 
+The increased risk of cardiovascular events associated with higher sodium intake is observed when sodium intake exceeds 5 g/day. 
+
+(3) 
+Moderate sodium intake (2.3–4.6 g/day) has been consistently asso­ciated with lower cardiovascular risk, compared to both high and low sodium intake, in prospective cohort studies. 
+
+(4) 
+The cardiovascular risk associated with high sodium intake is modi­fied by hypertension status. 
+
+(5) 
+The risk of high sodium intake is modified by potassium intake, in that the risk of high sodium intake is diminished in those consuming more potassium (higher intakes of fruits, vegetables, and nuts). 
+
+(6) 
+The optimal intake of sodium in patients with heart failure is unknown. 
+
+
+
+
+Can we safely reduce salt consumption to low levels? 
+If we set aside the evidence and assume that low sodium intake does reduce cardiovascular risk (compared to moderate intake), are there available interventions to reduce sodium intake, in individuals or com­munities, to lower levels? The answer also has implications for calls to conduct large definitive randomized controlled trials. 
+Population level 
+Globally, the mean intake of sodium was estimated at 3.95 g/day by the Global Burden of Disease (GBD) collaboration, in a meta-analysis of surveys from 187 countries, using 24-h urine collections.21 
+Based on the INTERMAP study, intakes are highest in East Asia, Central Asia, and Eastern Europe (mean >4.2 g/day) and in Central Europe and Middle East/North Africa (3.9–4.2 g/day). Some counties have adopted WHO-informed approaches to develop, implement, and monitor strategies for lowering sodium intake106 
+by targeting food reformulation, consumer education, front of pack labelling, and inter­vention in public institution settings (e.g. schools, workplaces). Some countries, most of which have a relatively high mean intake of sodium (>4 g/day), have reported reductions in mean sodium intake in sampled populations. For example, in China, where mean intake of sodium is high, there is evidence of a reduction in mean sodium intake over time (from 6.7 to 4.8 g/day; from 1991 to 2009), largely due to reductions in discretionary salt intake. 
+In countries with mean sodium intakes in the range of 3–4 g/day, there is less impressive evidence of reduction in mean sodium intake with population-level interventions. One study in the UK reported a 
+0.6 g/day reduction in mean sodium intake from 2000/01 to 2011, during which some targeted strategies to reduce sodium intake, e.g. working with the food industry to reformulate food with less salt and carrying out public awareness campaigns, were implemented.107 
+However, a UK report of sodium intake from 2008 (when a salt re­duction programme was fully established) reported no significant re­duction in mean sodium intake.108 
+At an international level, mean sodium intake, both globally and within regions, has not reduced from 1990 to 2010, based on a Global Burden of Disease meta­analysis.21 
+
+
+
+Community level 
+As detailed, no community-level intervention has reported a reduc­tion in sodium intake to low intake levels, but reductions in mean so­dium intake of about 0.5 g/day appear feasible with multi-component educational interventions. 
+
+Individual level 
+Feeding trials, such as the DASH-sodium trial, have achieved low so­dium intake targets for short periods of time, but none have reported sustaining this level of low sodium intake for longer periods. Intensive dietary counselling does lower sodium intake (1 g/day), but mean intake achieved in the TOHP-II trial was 3.2 g/day, and the TOHP-II participants were arguably the most representative of the general population among larger trials. A recent meta-analysis of clinical trials concluded that dietary counselling interventions, such as those used in the TOHP-II and TONE trials, were unsuited to rou­tine primary care clinical practice, due to the intensity of the intervention.109 
+
+
+
+Implications for other dietary intake 
+In setting guidelines for isolated nutrients, it is important to consider the implication for other dietary factors. For example, the recent NAM report included both sodium (<2.3 g/day) and potassium intake (>3.5 g/day) in a single guideline, given their proposed inter-related effect on blood pressure and cardiovascular risk.5 
+However, similar to other guidelines that address intakes of isolated nutrients, the feasibility and practical implications of the combined recommenda­tion were not adequately considered. In all studies examining com­bined sodium and potassium intake in populations, sodium intake was positively correlated with potassium intake,110 
+suggesting that increases in potassium intake (>3.5 g/day) are difficult to achieve while maintaining a low sodium intake (1.5–2.3 g/day), and only a very 
+
+........................................................................ 
+
+Figure 3 Association of combined sodium and potassium intake with mortality/cardiovascular risk (PURE study) ( O’Donnell et al.80). Heat map of risk for composite of cardiovascular events or death showing lowest risk in region of moderate sodium intake 3– 5 g/day and higher potassium intake and highest risk in region of extremes of sodium excretion and low potassium excretion. The reference hazard for these hazard ratios was set at a value of sodium daily excretion/ intake of 5.00 g and potassium daily excretion/intake of 2.25 g (median excretion of sodium and potassium), marked as X. The overlaid lines represent joint distribution quartiles; each region contains a quarter of the analysed participants. r =0.34. 
+small proportion of the population (<0.01%) had diets that achieved the combined guideline target (Figure 3). In addition, there may be implications for overall dietary quality of targeting a very low sodium intake. A study by Mercado et al.111 
+suggests that achieving target diet quality may be more difficult with sodium intake <2.3 g/day than with higher sodium intakes in the NHANES cohort. 
+Many dietary factors (e.g. fruit, vegetable, and meat intake) and dietary patterns (e.g. Mediterranean diet) have been associated with differing risk of cardiovascular events.112–114 
+Overall diet quality appears to be important in modifying the cardiovascular effects of so­dium intake. That conclusion is supported by evidence from the DASH-Sodium trial,18 
+which reported a greater blood pressure low­ering effect among those with a healthy cardiovascular diet, com­pared with less healthy one, as well as data from the PURE study reporting that higher potassium intake may favourably modify the as­sociation of high sodium intake with blood pressure71 
+and cardiovas­cular risk.80 
+Epidemiological studies have also reported that increased potassium intake is associated with reduced cardiovascular risk, par­ticularly for stroke, and also favourably modifies the adverse cardio­vascular effects of high sodium intake.115,116 
+We have very limited data on the long-term feasibility, tolerability, net health effects, or net effects on other nutrients of low sodium intake (<2.3 g/day) in the general (healthy) population. 
+
+M. O’Donnell et al. 
+
+The cardiovascular effect of reducing sodium intake may also be influenced by differences in sources of sodium in diet, which may vary by region. In Europe and North America, processed foods and fast foods are important sources of excess sodium intake.117 
+Substitution of these food items for healthier food choices (e.g. fresh fruit and veg­etables) will reduce sodium intake and will also confer other cardio­vascular health benefits through improvements in overall dietary quality. In other regions, diets rich in raw vegetables are also rich in sodium (e.g. traditional Japanese diet), and reduction in such dietary patterns may not have the same cardiovascular benefits.118 
+
+
+Conclusions 
+(1) 
+No intervention (individual, community, or national) has been dem­onstrated to achieve sustained low sodium intake (<2.3 g/day). 
+
+(2) 
+Achieving the concomitant targets for low sodium intake (<2.3 g/ day) and high potassium intake (>3.5 g/day) is very uncommon in free-living individuals. Sodium and potassium intake are positively correlated, making the current combined sodium-potassium target difficult to achieve in general populations. 
+
+(3) 
+Moderate sodium intake (2.3–4.6 g/day) with higher potassium in­take is achievable by a large proportion of the population and asso­ciated with low cardiovascular risk in observational studies, but not proven in definitive intervention trials. 
+
+
+
+
+Why is there such disagreement on the same evidence? 
+There is agreement that lowering sodium will be associated with a small reduction in blood pressure, but there is no agreement that all reductions will translate into a reduction in cardiovascular events and mortality, as there are no definitive long-term trials clearly demon­strating such benefit. There is general (but not complete) agreement on the desirability of reducing sodium intake in those who consume high salt diets (particularly in the setting of an overall poor diet), and as such, the disagreement is not about whether sodium intake should be reduced in some individuals, but in whom, and to what level. Advocates of low sodium intake generally assume a public health per­spective, with the emphasis on a population-wide intervention to shift the distribution of sodium intake to the left, which will have very small effects on individuals but potentially large effects at a population level, an approach first proposed by Rose in 1985.119 
+However, Rose’s ap­proach assumes that the risk associated with the risk factor in ques­tion consistently increases with greater exposure, as is the case with, for example, tobacco. This does not apply where the association is J-or U-shaped. Those that oppose a recommendation for low sodium intake120 
+and advocate a moderate intake range adopt a more ‘clinic­ally’ based perspective, in that the evidence level required to make a recommendation for low population-level sodium intake is that it needs to benefit those who consume it, especially when achieving the target is challenging and where observational studies suggest harm. Clinicians in cardiovascular medicine recommend increasing sodium intake in certain patients, such as those with symptomatic orthostatic hypotension or recurrent syncope, so the presence of a clinical J-shaped association is inherent to their clinical practice. In addition, clinicians experience the challenge of recommending a specific target for sodium intake that cannot be measured with convenient testing 
+............................................................................................................................................................................. 
+and is very difficult to achieve for patients. Moreover, in the context of numerous messages to the public regarding health behaviours, there is a risk of diverting resources away from effective interventions by investing in ineffective or unfeasible interventions, with a resultant ‘opportunity cost’ and risk of a credibility gap if strong public health messages are formulated without robust and consistent evidence to support them. 
+
+Is there a fundamental flaw in public health policy for very low sodium intake? 
+An arguable flaw in the current approach to dietary guidelines is the level of evidence required before determining a recommended intake range or target. In the case of sodium intake, the original decision to target low sodium intake (<1.5 g/day) was based on a meta-analysis of small and short-term trials demonstrating a reduction in blood pressure and the DASH-Sodium trial,18 
+which evaluated low sodium intake for 30 days. In general, the evidence required to make a strong dietary recommendation has been of lower strength and quality com­pared with the evidence required to recommend a medication for a given indication. Guidelines on sodium intake were implemented without considering that a valid and convenient measure of sodium intake in individuals was not available, without evidence that achieving very low levels of sodium intake was feasible (and had never been demonstrated in general populations), without adequate regard to the effects on consumption of other foods and nutrients (e.g. potas­sium intake), and without sufficient evidence that low sodium intake would reduce cardiovascular events (compared with usual moderate levels of intake). 
+Two guideline panels have adopted the GRADE system for repre­senting the strength of evidence.4,5 
+However, the GRADE approach was primarily developed to summarize evidence related to medical interventions (i.e. medicines and medical devices). The application of GRADE methodology for developing guideline recommendations on public health interventions presents challenges, particularly for essen­tial nutrients where observational studies play an important role.121 
+There is a clear need for new methodologies, or refinement of exist­ing ones, to address recommendations for assessing the health effects of essential nutrients. 
+
+Do we need large randomized controlled trials of sodium reduction? 
+There remain major gaps in our knowledge of the relationship of so­dium intake with human physiology and health. A frequently cited deficit is the absence of large randomized controlled trials to establish the effectiveness and safety of lowering sodium intake on cardiovas­cular events and mortality, particularly in patients with heart fail­ure.67,122 
+While such trials are expected to provide clarity on the effectiveness of reducing mean sodium intake by 0.5–1 g/day, they will not answer the question of whether low sodium intake (<2.3 g/ day) is effective and safe. We now know that larger differences in sodium intake between groups are difficult to achieve, even with in­tensive dietary counselling, and there is no available intervention that results in sustained low sodium intake. Ongoing randomized con­trolled trials can address whether specialist dietary counselling to re­duce sodium intake reduces cardiovascular events, and whether it improves outcomes in patients with heart failure, but are unlikely spe­cifically to evaluate low sodium intake, as sustained low sodium intake (<2.3 g/day) levels are unlikely to be achieved in the intervention group. 
+
+What can we recommend/suggest based on current evidence? 
+Individual level 
+In the absence of large clinical outcome trials, and of feasible methods to accurately measure sodium intake in individuals, we should avoid recommending a specific g/day sodium intake target. It is reasonable to provide practical advice on avoidance of key sources of high so­dium intake (especially those food items independently associated with cardiovascular risk, such as processed foods with high sodium content). This guidance should be embedded within recommenda­tions on overall dietary quality, and best targeted at specific groups of individuals, particularly those with hypertension. 
+
+
+Population level 
+While current evidence has limitations, and there are differences of opinion in interpretation of existing evidence, it is reasonable, based upon observational studies, to suggest a population-level mean target of <5 g/day in populations with mean sodium intake of >5 g/day, while awaiting the results of large randomized controlled trials of sodium reduction on incidence of cardiovascular events and mortality. 
+
+Acknowledgements 
+This work did not receive funding support. Dr M.O’D. reports a grant from European Research Council (ERC) on Clarifying Sodium Intake in Population (COSIP grant, 640580). 
+
+................................................................................................................. 
+Conflict of interest: All authors have completed the ICMJE uni­form disclosure form and declare the following: G.M. reports person­al fees from Boehringer-Ingelheim, Ferrer, Medtronic, Menarini, Merck, NOVARTIS, RECORDATI, Servier, outside the submitted work; D.M. reports grants from Academy Nutrition and Dietetics, personal fees from Consultant to Grocery Manufacturers Assoc, ConAgra Foods-Science Advisory Board, outside the submitted work; S.O. reports non-financial support from Global Joint Working Group on Optimal Salt Consumption and Cardiovascular Health, Global Joint Working Group, grants and non-financial support from NIH/National Heart, Lung and Blood Institute (NHLBI), personal fees from Novo Nordisk, Inc, 98point6, Inc, grants and personal fees from George Clinical Pty Ltd/Actelion/Idorsia Pharmaceuticals, personal fees from Cincor Pharma, Inc, Pfizer, Inc, grants and personal fees from ROX Medical, Inc, grants from Bayer, Idorsia Pharmaceuticals, Ltd, Novartis, outside the submitted work; and Writing Group, for the White Paper on Salt and Cardiovascular Disease, World Heart Federation (WHF), European Society of Hypertension (ESH), European Public Health Association (EPH), Writing Group Member, 2015—17 (no fee) and Editor-in-Chief, Current Hypertension Reports (Journal; Publisher—Springer Science Business Media LLC); annual stipend of $5000 (Springer); Editor-in-Chief Term until 12/ 2020. R.D. reports grants and personal fees from sanofi, grants from PHRI,DCRI, Dalcor,Lepetit,MHICC,Cirius, Amgen, outside the submitted work; D.P. reports grants from Global Alliance for Chronic Disease, outside the submitted work. F.H.M. reports Honoraria and travel from Menarini, Berlin Chemie, Pfizer, and Medtronic. A.E.S. reports personal fees from Abbott Pharmaceuticals, Omron Healthcare, Servier, Novartis South Africa, Takeda Japan, outside the submitted work. All other authors have reported that they have no relationships relevant to the contents of this article to disclose. 
+
+
+
+References 
+The list of references is available on the online version of this paper. 
+
+
+
+
