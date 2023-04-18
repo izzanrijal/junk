@@ -11,7 +11,7 @@
 | | | |Penanganan|
 | | |Migren|Diagnosis|
 | | | |Penanganan|
-| | |BPPV|«|
+| | |BPPV|Semua Tipe Pertanyaan|
 |2.|Sistem Saraf Dewasa|Meningitis/Ensefalitis/ Meningoensefalitis|Diagnosis|
 | |Kompetensi IIIA-IIIB| |Pemeriksaan Penunjang|
 | |(6-7 soal)|Trauma Capitis|Diagnosis|
@@ -49,10 +49,10 @@
 |3.|Sistem Saraf Dewasa|Penyakit Alzheimer|Diagnosis|
 | |Kompetensi I-II| | |
 | |(1-2 Soal)| | |
-|4.|Sistem Saraf Anak|Kejang Demam|«|
+|4.|Sistem Saraf Anak|Kejang Demam|Semua Tipe Pertanyaan|
 | |Kompetensi IVA|Tetanus|Diagnosis|
 | |(2-3 soal)| |Etiologi|
-|5.|Sistem Saraf Anak|Status Epileptikus|«|
+|5.|Sistem Saraf Anak|Status Epileptikus|Semua Tipe Pertanyaan|
 | |Kompetensi IIIA-IIIB|Meningitis/Ensefalitis/|Etiologi|
 | |(2-3 soal)|Meningoensefalitis|Diagnosis|
 | | | |Pemeriksaan Penunjang|
@@ -132,7 +132,7 @@
 | | | |Tatalaksana|
 | | |Benda asing di konjungtiva|Diagnosis|
 | | | |Tatalaksana|
-|14.|Sistem Indra Mata|Glaukoma akut|«|
+|14.|Sistem Indra Mata|Glaukoma akut|Semua Tipe Pertanyaan|
 | |Kompetensi IIIA-IIIB|Pterigium|Diagnosis|
 | |(5-6 soal)|Chalazion|Diagnosis|
 | | |Dakriosistitis|Diagnosis|
@@ -253,7 +253,7 @@
 | | |Multi Drug Resistance (MDR) TB|Diagnosis|
 | | |Ateletaksis|Diagnosis|
 | | | |Pemeriksaan Penunjang|
-|22.|Sistem Respirasi Anak|Asma bronchial|«|
+|22.|Sistem Respirasi Anak|Asma bronchial|Semua Tipe Pertanyaan|
 | |Kompetensi IVA|Faringitis|Diagnosis|
 | |(2-3 soal)| |Tatalaksana|
 | | |Tonsilitis|Diagnosis| | |Tatalaksana|
@@ -344,16 +344,16 @@
 | | |Kelainan katup jantung |Diagnosis| |Penyakit jantung lainnya|Gejala Klinis|
 | | |Penyakit jantung reumatik|Diagnosis|
 | | | |Pemeriksaan Penunjang|
-|31.|Sistem GEH Dewasa|Gastroenteritis |«|
-| |Kompetensi IVA|Kolera|«|
-| |(6 soal)|Giardiasis|«|
-| | |Penyakit cacingtambang|«|
-| | |Strongiloidiasis|«|
-| | |Askariasis|«|
-| | |Skistosomiasis|«|
-| | |Taeniasis|«|
-| | |Disentri amuba|«|
-| | |Disentri basiler|«|
+|31.|Sistem GEH Dewasa|Gastroenteritis |Semua Tipe Pertanyaan|
+| |Kompetensi IVA|Kolera|Semua Tipe Pertanyaan|
+| |(6 soal)|Giardiasis|Semua Tipe Pertanyaan|
+| | |Penyakit cacingtambang|Semua Tipe Pertanyaan|
+| | |Strongiloidiasis|Semua Tipe Pertanyaan|
+| | |Askariasis|Semua Tipe Pertanyaan|
+| | |Skistosomiasis|Semua Tipe Pertanyaan|
+| | |Taeniasis|Semua Tipe Pertanyaan|
+| | |Disentri amuba|Semua Tipe Pertanyaan|
+| | |Disentri basiler|Semua Tipe Pertanyaan|
 | | |Gastritis|Diagnosis|
 | | | |Tatalaksana|
 | | |Demam tifoid|Diagnosis|
@@ -393,17 +393,17 @@
 | | |Hepatitis C|Diagnosis|
 | | |Neoplasma hepar|Diagnosis|
 | | |Pankreatitis|Diagnosis|
-|34.|Sistem GEH Anak|Gastroenteritis |«|
-| |Kompetensi IVA|Kolera|«|
-| |(5-6 soal)|Giardiasis|«|
-| | |Demam tifoid|«|
-| | |Penyakit cacing tambang|«|
-| | |Strongiloidiasis|«|
-| | |Askariasis|«|
-| | |Skistosomiasis|«|
-| | |Taeniasis|«|
-| | |Disentri basiler|«|
-| | |Disentri amuba|«|
+|34.|Sistem GEH Anak|Gastroenteritis |Semua Tipe Pertanyaan|
+| |Kompetensi IVA|Kolera|Semua Tipe Pertanyaan|
+| |(5-6 soal)|Giardiasis|Semua Tipe Pertanyaan|
+| | |Demam tifoid|Semua Tipe Pertanyaan|
+| | |Penyakit cacing tambang|Semua Tipe Pertanyaan|
+| | |Strongiloidiasis|Semua Tipe Pertanyaan|
+| | |Askariasis|Semua Tipe Pertanyaan|
+| | |Skistosomiasis|Semua Tipe Pertanyaan|
+| | |Taeniasis|Semua Tipe Pertanyaan|
+| | |Disentri basiler|Semua Tipe Pertanyaan|
+| | |Disentri amuba|Semua Tipe Pertanyaan|
 | | |Keracunan makanan|Diagnosis|
 | | | |Tatalaksana|
 | | |Alergi makanan|Diagnosis|
@@ -537,11 +537,11 @@
 | | |Kehamilan ganda |Diagnosis|
 | | |Diproporsi kepala panggul|Diagnosis|
 | | |Inkontinensia urine|Diagnosis|
-|46.|Sistem Reproduksi|Sindrom duh (discharge) |«|
+|46.|Sistem Reproduksi|Sindrom duh (discharge) |Semua Tipe Pertanyaan|
 | |Ginekologi dan|genital gonore| |
-| |Penyakit Infeksi|Sindrom duh (discharge)|«|
+| |Penyakit Infeksi|Sindrom duh (discharge)|Semua Tipe Pertanyaan|
 | |Kompetensi IVA|Genital nongonore| |
-| |(5-6 soal)|Vaginosisbakterialis|«|
+| |(5-6 soal)|Vaginosisbakterialis|Semua Tipe Pertanyaan|
 | | |Infeksi saluran kemih |Diagnosis|
 | | |bagianbawah|Tatalaksana|
 | | |Mastitis|Diagnosis|
@@ -568,7 +568,7 @@
 | | |Abses|Diagnosis|
 | | |Karsinoma payudara|Diagnosis|
 | | |Hiperplasia endometrium|Diagnosis|
-|49.|Sistem Endokrin,|Diabetes mellitus tipe 2|«|
+|49.|Sistem Endokrin,|Diabetes mellitus tipe 2|Semua Tipe Pertanyaan|
 | |Metabolik, dan|Diabetes mellitus tipe 1|Patofisiologi|
 | |Nutrisi Dewasa| |Diagnosis|
 | |Kompetensi IVA| |Tatalaksana|
@@ -615,10 +615,10 @@
 | |Metabolik, dan| | |
 | |Nutrisi Anak| | |
 | |Kompetensi I-II| | |
-|55.|Sistem Hematologi dan|Anemia defisiensibesi|«|
-| |Imunologi Dewasa|DHF|«|
-| |Kompetensi IVA|Malaria|«|
-| |(3-4 soal)|Demam dengue|«|
+|55.|Sistem Hematologi dan|Anemia defisiensibesi|Semua Tipe Pertanyaan|
+| |Imunologi Dewasa|DHF|Semua Tipe Pertanyaan|
+| |Kompetensi IVA|Malaria|Semua Tipe Pertanyaan|
+| |(3-4 soal)|Demam dengue|Semua Tipe Pertanyaan|
 | | |Leptospirosis tanpa komplikasi|Diagnosis|
 | | | |Tatalaksana|
 | | |Reaksi anafilaktik|Diagnosis|
@@ -655,10 +655,10 @@
 | | |Gangguan pembekuan darah|Etiologi|
 | | |Von Wilebrand’s disease|Diagnosis|
 | | | |Tatalaksana|
-|58.|Sistem Hematologi dan|Anemia defisiensibesi|«|
-| |Imunologi Anak|DHF|«|
-| |Kompetensi IVA|Malaria|«|
-| |(2-3 soal)|Demam dengue|«|
+|58.|Sistem Hematologi dan|Anemia defisiensibesi|Semua Tipe Pertanyaan|
+| |Imunologi Anak|DHF|Semua Tipe Pertanyaan|
+| |Kompetensi IVA|Malaria|Semua Tipe Pertanyaan|
+| |(2-3 soal)|Demam dengue|Semua Tipe Pertanyaan|
 | | |Reaksi anafilaktik|Diagnosis|
 | | | |Tatalaksana|
 |59.|Sistem Hematologi dan|Dengue shock syndrome|Diagnosis|
