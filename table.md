@@ -49,7 +49,6 @@
 |3.|Sistem Saraf Dewasa|Penyakit Alzheimer|Diagnosis|
 | |Kompetensi I-II| | |
 | |(1-2 Soal)| | |
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 |4.|Sistem Saraf Anak|Kejang Demam|«|
 | |Kompetensi IVA|Tetanus|Diagnosis|
 | |(2-3 soal)| |Etiologi|
@@ -100,7 +99,6 @@
 | |Kompetensi I-II|dan hiperaktif/autisme| |
 | |(1-2 soal)|Pica|Diagnosis|
 | | | | |
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 |13.|Sistem Indra Mata|Miopia ringan|Diagnosis berdasarkan|
 | |Kompetensi IVA| |tipe kelainan|
 | |(6-7 soal)| |Pemeriksaan Penunjang|
@@ -150,7 +148,6 @@
 | |Kompetensi I-II| | |
 | |(3-4 soal)| |Pemeriksaan|
 | | | | |
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 | | |Oklusi pembuluh darah retina|Diagnosis|
 | | | |Pemeriksaan Penunjang|
 | | | |Tatalaksana|
@@ -200,7 +197,6 @@
 | | | |Tatalaksana|
 | | |Otitis media kronik|Diagnosis|
 | | | |Tatalaksana|
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 | | |Sinusitis|Diagnosis|
 | | | |Pemeriksaan Penunjang|
 | | | |Tatalaksana|
@@ -244,7 +240,6 @@
 | | |Pneumothorax ventil|Diagnosis|
 | | | |Pemeriksaan Penunjang|
 | | | |Tatalaksana awal|
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 | | |Pneumothorax|Diagnosis|
 | | | |Pemeriksaan Penunjang|
 | | |Emfisema paru|Diagnosis|
@@ -293,7 +288,6 @@
 | |Dewasa| |Tatalaksana|
 | |Kompetensi IIIA-IIB|Syok hipovolemik|Diagnosis|
 | |(4-6 soal)| |Tatalaksana|
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 | | |Syok kardiogenik|Diagnosis|
 | | | |Tatalaksana|
 | | |Syok neurogenik|Diagnosis|
@@ -339,7 +333,6 @@
 | |Kompetensi I-II| | |
 | |(2-3 soal)|Kelainan jantung congenital|Diagnosis|
 | | |Atrial Septal Defect|Gejala Klinis|
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 | | |Kelainan jantung congenital|Diagnosis|
 | | |Patent Ductus Arteriosus|Gejala Klinis|
 | | |Kelainan jantung congenital|Diagnosis|
@@ -382,7 +375,6 @@
 | | |Pendarahan gastrointestinal|Diagnosis|
 | | |Kolesistitis|Diagnosis| |Ulkus gaster|Diagnosis|
 | | | |Pemeriksaan Penunjang|
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 | | |Ulkus duodenum|Diagnosis|
 | | | |Pemeriksaan Penunjang|
 | | |Hepatitis B|Diagnosis|
@@ -433,7 +425,6 @@
 |36.|Sistem GEH Anak|Astresia esophagus|Diagnosis|
 | |Kompetensi I-II| | |
 | |(1-2 soal)| |Pemeriksaan Penunjang|
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 | | |Akalasia|Diagnosis|
 | | | |Pemeriksaan Penunjang|
 | | |Hernia inguinalis reponibilis|Diagnosis|
@@ -482,7 +473,6 @@
 | |Saluran Kemih Anak| | |
 | |Kompetensi IIIA-IIIB| | |
 | |(1 soal)| |Pemeriksaan Fisis|
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 |42.|Sistem Ginjal dan|Hipospadia|Diagnosis|
 | |Saluran Kemih Anak| | |
 | |Kompetensi I-II|Epispadia|Diagnosis|
@@ -533,7 +523,6 @@
 | | | | |
 | | |Janin tumbuh lambat|Diagnosis|
 | | | | |
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 |45.|Sistem Reproduksi|Diabetes gestasional|Diagnosis|
 | |Obsteri|Kehamilanposterm |Diagnosis|
 | |Kompetensi I-II|Plasentaprevia |Diagnosis|
@@ -584,7 +573,6 @@
 | |Nutrisi Dewasa| |Diagnosis|
 | |Kompetensi IVA| |Tatalaksana|
 | |(4-5 soal)| |Komplikasi|
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 | | |Hipoglikemia ringan|Diagnosis|
 | | | |Tatalaksana|
 | | |Dislipidemia|Diagnosis|
@@ -636,7 +624,6 @@
 | | |Reaksi anafilaktik|Diagnosis|
 | | | |Tatalaksana|
 | | | | |
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 |56.|Sistem Hematologi dan|Anemia hemolitik|Diagnosis|
 | |Imunologi Dewasa|Anemia makrositik|Diagnosis|
 | |Kompetensi IIIA-IIIB|Lupus eritematosus sistemik|Patofisiologi|(2-3 soal)| |Diagnosis|
@@ -686,7 +673,6 @@
 | | |Demamreumatik|Diagnosis|
 | | | |Pemeriksaan Penunjang|
 | | | | |
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 |60.|Sistem Hematologi dan|Anemia aplastic|Diagnosis|
 | |Imunologi Anak| |Pemeriksaan Penunjang|
 | |Kompetensi I-II|Gangguan pembekuan darah|Diagnosis|
@@ -737,7 +723,6 @@
 | | |Osteosarkoma|Diagnosis|
 | | | |Pemeriksaan penunjang|
 | | | | |
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 | | |Tumor tulang primer|Diagnosis|
 | | | |Pemeriksaan penunjang|
 | | |Tumor tulang sekunder|Diagnosis|
@@ -788,7 +773,6 @@
 | | |Akne vulgaris ringan|Patofisiologi|
 | | | |Diagnosis|
 | | | |Tatalaksana|
-|No.|Topik|Daftar Penyakit|Pertanyaan Terkait|
 | | |Urtikaria akut|Diagnosis|
 | | | |Tatalaksana|
 | | |Luka bakar derajat 1 dan 2|Diagnosis|
