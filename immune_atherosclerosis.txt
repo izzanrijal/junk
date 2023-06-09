@@ -1,0 +1,824 @@
+Chapter 7 Atherosclerosis 
+
+7.1 Cardiovascular System 
+Cardiovascular disease (CVD) remains the leading cause of death worldwide [1, 2]. Atherosclerosis, the build-up of plaques within blood vessels resulting in restriction of flow and potential risk of rupture, contributes to the development of heart attack (myocardial infarction) and stroke. Angina pectoris, a diagnosis that correlates pain in the chest with reduced blood flow to the heart muscle, is also predominantly caused by atherosclerosis, a key burden of morbidity particularly in the developed world, affecting 19 males and 14 women in every 100,000 of the population in Western Europe [1]. The risk of developing ischaemic heart disease (IHD) and stroke both increases with age [3], and there is a slightly higher risk of developing heart attack, stroke or suffering from angina in men [2–4]. Another important con­tribution to CVD is peripheral arterial disease (PAD), which, although a rare cause of mortality, contributes significantly to the burden of morbidity globally [5]. Our focus in this chapter however will be the role of immunity on atherosclerotic­mediated heart attack and stroke as it is in these areas where much work has been conducted. 
+So-called modifiable risk factors for CVD have been identified over many years, resulting from analyses at both a populational and epidemiological level as well as characterisation of risk factors from bench side analysis of genetic mutations to link cause and effect. 
+Cigarette smoking has been identified as a key risk factor for CVD. This was particularly noted during the twentieth century following a sharp rise in the inci­dence of smoking followed, several years later, by a noticeable increase in the inci­dence of both lung cancers and death from CVD. Smoking has consistently shown to increase the risk of death from IHD and stroke in longitudinal follow-up studies [6, 7]. The effects of tobacco smoke inhalation on the immune system have been considered for some time [8]. Smoking is thought primarily to modulate immune responses through the lung, where innate immune cells such as alveolar macro­phages and monocytes respond to environmental pathogens in order to prevent for­eign material and pathogens from reaching alveoli. Smoking increases macrophage number and their production of lysozymes and secretion of elastase [9]. Although macrophages isolated from smokers produce higher levels of oxygen-free radicals, they are less able to deal with bacterial pathogens when compared with non-smokers 
+[10] suggesting functional impairment [11]. These immunomodulatory effects are not limited to macrophages as alterations in effector function of natural killer (NK) cells [12] and lymphocytes [8]. Immunoglobulin levels are lower in smokers [12]; however autoantibodies are higher [13], perhaps providing an explanation as to the higher incidence of some autoimmune conditions in smokers. The mechanisms of this remain unclear due to the complex composition of cigarette smoke; however tar and nicotine are implied as major contributors to this effect [14]. 
+Essential hypertension is defined as an elevated systolic blood pressure (SBP) above 120 mmHg and diastolic blood pressure above 70–80 mmHg which has been linked to accelerated CVD [15, 16]. Elevations in SBP form a linear relationship with an increasing incidence of ischaemic heart disease and stroke when adjusted for age [17]. Certainly in the West, it is accepted that blood pressure increases with age. Dietary salt intake is linked to a rise in blood pressure [18] as is body habitus recorded as body mass index (BMI) [19]. Experimental animal models and observa­tions in hypertensive humans have linked alterations in immunity and inflammation with hypertension [20–24]; however, despite these data, no convincing pathophysi­ological link has been accepted [25]. The focus of research has been concentrated on the interaction of immunity with the renal, specifically renin-angiotensin, system in animal work [26–28]. Nevertheless, data has certainly suggested an altered cel­lular phenotype in hypertensive patients. Monocytes have been shown to be preac­tivated when stimulated in vitro with toll-like receptor (TLR)-4 agonist lipopolysaccharide (LPS) altering secretion of tumour necrosis factor-a (TNF-a) and interleukin-1ß (IL-1ß) at both protein and transcription (mRNA) level [23]. Increased macrophage and T-cell infiltration into the kidneys is seen in a variety of experimental animal models of renal disease [29–31]. Correlating these findings in experimental models to human disease however requires further work and under­standing. Excellent reviews and updates are available in the journal Hypertension where the role and interplay between immunity, inflammation and hypertension are reviewed [25, 32–34]. 
+Cholesterol has been strongly implicated in the development of CVD. This asso­ciation can be traced back to over 100 years ago, starting with the discovery that human atherosclerotic plaques contain cholesterol. This was followed by discover­ies that a high-cholesterol diet can cause atherosclerosis in rabbits and that a feed­back inhibition loop for cholesterol synthesis exists leading to the discovery of a mutation in humans resulting in defective cholesterol transport who were at a high risk of premature death from CVD [35]. 
+The terms ‘good’ and ‘bad’ cholesterol refer to different lipoproteins that trans­port cholesterol in the blood. This is however an oversimplification of the complex­ity and differences in attributable risk for these circulating transport proteins. Apolipoproteins produced by enterocytes or hepatocytes with help from hydrophilic phospholipids package hydrophobic lipids such as cholesterol, cholesterol esters and triglycerides to make them available for transport, energy delivery or storage. 
+The link between total cholesterol levels and the incidence of cardiovascular dis­ease was first suggested in the 1950s [36] followed by the discovery of low-density lipoprotein (LDL) as a risk factor for CVD in 1955 [37]. The discovery of its recep­tor in 1973 by Brown and Goldstein [38] leads to the award of the Nobel Prize. This is further discussed in the section titled ‘Lipoproteins’ in more detail below. 
+The presence of diabetes mellitus is associated with a twofold increased risk of ischaemic heart disease and stroke as well as PAD [39–41]. Indeed, this risk extends to those with elevated blood glucose levels, often termed ‘prediabetes’ when fasting glucose levels greater than 6 mmol/L were considered [39]. Acute hyperglycaemia correlates with morbidity and mortality in critically and non-critically ill patients 
+[42] prompting investigation into potential modulation of immune response. It has been shown to increase monocyte expression of Mac-1 (CD11b) [43] as well as to increase plasma levels of E-selectin, intercellular adhesion molecule-1 (ICAM-1) and vascular cell adhesion molecule-1 (VCAM-1), implicated in leukocyte adhe­sion to the vascular wall [44–47]. Hyperglycaemia has been shown to inhibit neu­trophil migration and phagocytosis as well as their ability to produce superoxides for microbe killing [48] and can modulate the cytokine system and complement cascade [49]. 
+Diabetes mellitus is a condition defined by chronically elevated blood glucose levels [50] with type-2 diabetes mellitus (T2DM) associated with a number of meta­bolic abnormalities. Diabetic patients are at an increased risk of infection [51], par­ticularly susceptible to those of bacterial origin [52]. Studies have identified defects in humoral and cellular innate immunity [53] with defects in monocyte chemotactic and phagocytic profiles [54]. A link between T2DM and obesity has been observed for some time [55–57], sharing the common trait of insulin resistance [58] though a firm mechanism to support obesity as a cause of T2DM is yet to be established. 
+Obesity has been described as a global epidemic [59] and is associated with an increase in mortality [60]. Low-grade inflammation is a feature of obesity, with increased circulating levels of TNF-a, IL-6 and CRP [61–65]. Visceral adipose tis­sue is thought to be a driver of inflammation as well as being a driver of insulin resistance [66]. Accumulation of both innate and adaptive immune cells including macrophages [67–69], T cells [70, 71], B cells [72], NK cells [73] and neutrophils 
+[74] with a ‘pro-inflammatory’ phenotype along with a reduction in ‘anti­inflammatory’ immune cells (regulatory T cells, M2-like macrophages and eosino­phils) has been shown [66]. 
+Combining the evidence presented above, it is reasonable then to extrapolate that the presence of hypertension, dyslipidaemia, dysglycaemia and obesity (specifically centripetal), otherwise termed the ‘metabolic syndrome’, will exert effects on immune cells. In the USA, nearly a quarter of all adults are suspected to suffer from metabolic syndrome and are a predictor of CVD [75]. Activation of the innate immune system is implicated in the development of metabolic syndrome character­istics [76–79]. 
+
+7.2 Cardiovascular Homeostasis 
+The cardiovascular system is subject to regulation, through an integrated network of stimuli. Cardiac output is determined by heart rate and stroke volume, which in turn are subject to autonomic, mechanoreceptor, renal, cerebral and endocrine input. Cerebral influence on the cardiovascular system includes regulation via the hypothalamus, utilising the sympathetic and parasympathetic nervous system to influence heart rate and blood pressure as well as regulation by humoral factors, such as adrenaline (epinephrine) and noradrenaline effects on vasculature and cho­linergic effects on skeletal and cardiac muscle. Neurological chemoreceptors can detect changes in partial pressures of oxygen and carbon dioxide in the circulation causing vasodilation or vasoconstriction to alter mean arterial pressure. 
+In this section, we discuss further mechanisms of cardiovascular regulation and the susceptibility for disease when imbalance occurs. 
+7.2.1 Lipoproteins 
+As described above, much evidence from genetic and clinical trials (predominantly trials where statins have been used to lower cholesterol) now points towards the link between cholesterol and cardiovascular disease. In particular changes in low-density lipoprotein (LDL) cholesterol successfully lowered with statin therapy have demon­strated significant reductions in mortality from myocardial infarction and reduction in ischaemic stroke [80–91]. Other lipoproteins involved in the regulation and trans­port of cholesterol and dietary lipid and their relative contributions to the burden of CVD are discussed here. 
+
+7.2.2 LDL Cholesterol 
+Mounting clinical evidence has implicated elevated total cholesterol levels in early CVD [92], whilst a reduction in heart attack and the need for revascularisation thera­pies and stroke have been shown when therapies successfully lowering LDL choles­terol levels are employed [91, 93]. Twenty-one trials comparing statin therapy to control in the meta-analysis by the Cholesterol Treatment Trialists’ (CTT) Collaboration [91] showed a reduction of LDL-C by 1.0 mmol/L equated to a reduc­tion in heart attacks by nearly 25% (RR 0.76, 95% CI 0.73–0.79). Interest in the oxi­dised form of LDL in the context of atherosclerosis was developed following observations that macrophages readily accumulated cholesterol esters in vitro [94, 95], and this led to the concept that modification of LDL is felt to play a key role in atherogenesis [94, 96, 97]. The role of oxidised LDL in CVD has since gained consid­erable momentum as has their interplay with macrophages and the formation of cho­lesterol-loaded macrophage foam cells [98–103]. Oxidised LDL has been shown in vitro to have a pro-inflammatory effect on monocytes [104–106], driving polarisa­tion to macrophages [107] and enhancing anti-microbial response [108]. It has recently been shown that circulating monocytes can, in certain conditions, such as postprandial lipaemia or exposure to non-HDL lipoproteins, also accumulate intracel­lular neutral lipid [109–111]. The biological relevance or fate of these so-called foamy monocytes however remains unclear. Circulating levels of oxidised LDL may also be increased in CVD [100, 112], the relevance of which remains to be fully explored. 
+
+7.2.3 HDL Cholesterol 
+Other forms of cholesterol include high-density lipoprotein (HDL) which has been negatively correlated with an increased risk of CVD [92, 113, 114]. The mechanism by which HDL is thought to exert cardioprotective effects includes the ability to remove cholesterol from cells, a process known as ‘reverse cholesterol transport’, and therefore may do this from lipid-laden foam cells [115]. HDL promotes cellular cholesterol efflux mediated by interaction through ATP-binding cassette transport­ers (ABCA1, ABCG1) [116, 117]. 
+Beyond this, HDL has also been shown to exert anti-inflammatory effects by lowering expression of endothelial expression of VCAM-1, increased production of endothelial nitric oxide synthase (eNOS), reduction in monocyte expression of CD11b and migration [118] and also by downregulating TLR-dependent pro-inflammatory cytokine production in macrophages [119]. 
+However the relationship has come under question recently, following the use of Mendelian randomisation in patients who had loss of function single nucleotide polymorphisms (SNP) associated with elevated plasma HDL levels, these patients did not have a reduction of CV events [120, 121]. These findings have been further supported by a failure of clinical trials to correlate raising HDL levels with reduced CV events [122–124], suggesting that HDL function rather than simply plasma level may be important. 
+
+7.2.4 Other Non-HDL Cholesterols 
+Chylomicrons represent the largest portion of dietary lipid under transport. Packaged together in the enterocyte, they consist predominantly of fatty acids esterified for transport as triglycerides, phospholipids, cholesterol and choles­terol esters [125–127]. Following the transfer out of fatty acids to either muscle or adipose tissue, these particles are now termed chylomicron remnants and are cleared by the liver. Very low-density lipoprotein (VLDL) is responsible for the transport of cholesterol and a significant proportion of triglyceride following clearance of dietary lipid by the liver. Work performed in our group has demon­strated that monocyte subsets differentially accumulate neutral lipid in response to VLDL incubation and that this can impair normal cytoskeletal activity and monocyte migration towards an inflammatory stimulus [111] and may also increase endothelial adhesion, although this remains an inconsistent finding [128]. 
+Early hypotheses suggested these remnants and indeed the small cholesterol component are in fact contributors to atherosclerotic CVD [129], and interest in this hypothesis has recently been renewed, advocating measurement of non-fasting tri­glycerides as an independent predictor of CV events [130, 131]. The role of the dietary source of triglycerides, importantly whether from saturated fat-rich diets, has recently been an issue of debate. Meta-analyses have called into question the role of dietary guidelines that advocate ‘low-fat’ diets suggesting in fact that the link between saturated fat and CVD is not as clear as once thought [132–134], whilst support remains however for increased intake of polyunsaturated [132] and mono-unsaturated fat-rich diets [135, 136]. 
+Other lipid- and lipoprotein-associated CVD risk markers have not been further discussed here due to the scope of the chapter, but mutations in the lipoprotein (a) gene ought to also be considered. 
+
+7.2.5 Central Nervous System 
+Beyond the role of circulating mediators, it is now known that the cardiovascular system is subject to regulation from the central nervous system (CNS) and mechanosensors. 
+Integrins, for instance, play a key role as mechanosensors in cardiac myocytes 
+[137] and may respond to mechanical load in inducing hypertrophy. ß1 integrin has been shown to play a role in combining mechanical stretch in activation of mitogen­activated protein kinases (MAPK) and Rho GTPases [138–140]. ß1 integrin is also known to interact with angiotensin II, a peptide hormone that forms part of the renal­angiotensin feedback loop and can stimulate myocardial contraction [141]. This com­plex field of research is further elaborated in the excellent review by Dostal et al. [142]. 
+CNS regulation of the cardiovascular system is primarily through autonomic nervous system alterations of sympathetic and parasympathetic tone. Indeed, this is particularly relevant in the context of heart failure [143, 144] and cardiac arrhythmias [145] and was thought of as a potential therapeutic target for resistant hypertension [146], though recent results have allayed early optimism in this [147]. 
+The notion that psychological stress can influence the immune system has been considered for some time [148] and evaluated in a variety of ways, where the type of stress has differed (acute or chronic), sequence of stressful events and the differ­ent evaluative markers used to identify an effect on immunity (cell number, cytokine release or a functional assay) [149]. The impact of chronic stress and activation of the sympathetic-adrenal-medullary axis on haematopoiesis has been studied in both humans and mouse models of atherosclerosis demonstrating an increase in mono­cyte and neutrophil count [150]. In these studies, monocytes increase in number in the peripheral blood [151], and as further elaborated below, their subsets adopt a specific response to acute myocardial infarction that are thought to play an impor­tant role in inflammation following the ischaemic insult but may also play an impor­tant role in tissue repair [152]. Mobilisation from the splenic reservoir [153, 154] and bone marrow [155] contributes to recruitment into infarcted myocardium [156] and may contribute to further risk of atherosclerosis and re-infarction [157]. 
+
+
+7.3 Immunity in Cardiovascular Homeostasis 
+Here we will mainly discuss the role played by cells of the innate immune system on cardiovascular homeostasis and atherosclerosis. We discuss monocytes and mac­rophages and to a lesser extent dendritic cells and granulocytes. We will finish by briefly discussing the role played by lymphocytes. 
+7.3.1 Monocytes 
+Monocytes are effector cells of the innate immune system. Their involvement in atherogenesis has been suggested for some time [158, 159]. Although previously considered simply senescent cells destined to terminally differentiate into macro­phages following activation and invasion of tissue in response to inflammatory cues, it is now recognised that they may play a much wider role in the immune response. For instance, it is now recognised that they exist in subsets in humans (with murine homologs that have also been studied extensively) [160, 161]. They can be described based upon their relative expression of antigenic markers such as LPS receptor CD14 and Fc.-receptor CD16, further described below. 
+7.3.1.1 Monocytes as Heterogeneous Subsets 
+In mammals, monocytes can be differentiated into at least two subsets, which can be described as ‘classical’ and ‘non-classical’ monocytes. Classical monocytes are the most numerate, comprising approximately 80% of the circulating number, and are CD14highCD16low , whilst non-classical monocytes, the converse, CD14dimCD16high. A third population of monocytes, termed ‘intermediate’ monocytes, is CD14highCD16high, demonstrating a phenotype somewhere in between the other two, responding strongly to bacterial signals whilst in some also potent viral responses [160]. For instance, clas­sical monocytes demonstrate a rapid and potent cytokine response to bacterial stimuli via TLR-4, whilst non-classical monocytes respond preferentially to viral stimuli via TLR-7 and TLR-8. The relevance of defining and describing monocytes in terms of these subsets is that they may play distinct roles in the context of atherogenesis [161]. Non-classical cells have been described as ‘patrolling’, with evidence they can crawl against the microcirculatory stream, expressing differential levels of chemokine receptors [162, 163] such as fractalkine receptor, CX3 chemokine receptor (CX3CR1) expression [160], implicated in atherogenesis through murine knockout models [164]. 
+In mouse models, murine homologs to human monocytes have been identified [160]. Classical monocytes are closest to Gr1/Ly6Chigh monocytes, whilst non-classical cells align with Gr1/Ly6Clow cells. No discernible intermediate homologs are identified, although human intermediate monocytes align functionally with murine classical cells [160, 165] and transcriptionally with non-classical CD16high human monocytes [166]. 
+Classical monocytes are preferentially recruited to early atherosclerotic plaques [163, 167]. In the mouse, Gr1/Ly6Chigh populations may give rise to their Gr1/ Ly6Clow counterparts through interconversion in the blood; however this has not been confirmed by human data [168]. Origins of monocyte heterogeneity remain to be discovered. Heterogeneity may exist due to maturation over time and intercon­version between subsets (Gr1/Ly6Chigh to Gr1/Ly6Clow) or NR4A1-dependent matu­ration of individual progenitor cells within the bone marrow subsequently giving rise to heterogeneous subsets or in fact that differentiation is dependent on the local microenvironment and that this promotes differential expression of surface markers and functional phenotype, as shown in macrophage populations [169]. Further dif­ferences in subsets and their potential recruitment to areas of vascular endothelium at risk of atherosclerosis in terms of expression of selectins [170–172], integrins [109, 110, 173, 174] and other chemokine receptors are further elaborated in this review [161]. Monocytes do not necessarily extravasate and terminally differentiate into macrophages or dendritic cells and can in fact emigrate from tissue or apoptose [175]. Finally, it should be noted that most of our understanding of monocyte subset biology comes from murine work and that the human model is less well understood. 
+
+
+7.3.2 Macrophages 
+7.3.2.1 Derived from Circulating Monocytes or Tissue-Resident Precursors? 
+Macrophages had for some time been considered solely as cells terminally differen­tiated from activated circulating blood monocytes [155]; however this dogma has recently been questioned. Indeed, it is now recognised that most tissues of the body contain resident macrophages, some of which potentially predate the arrival of pro­genitors from the blood in embryological development [168, 176–179]. It is now accepted that most tissue contains resident macrophages that can self-renew inde­pendent of blood monocytes [168]. However some tissue macrophages do require continuous turnover from monocytes, the gut being a good example [180]. Resident tissue macrophages are thought to arise from early yolk sac-derived progenitor cells, bypassing monocytes, or from foetal liver monocytes that themselves have derived from erythro-myeloid progenitors (c-Myb+ cells) generated in the yolk sac and dorsal aortic endothelial cells [181, 182]. Perhaps more relevant to CVD, tissue-resident macrophages that reside in the adventitia of the arterial wall derive from CX3CR1+ erythro-myeloid progenitors from the yolk sac and foetal liver mono­cytes, with subsequent influx of circulating blood monocytes in the postnatal phase accompanied by transient expression of surface receptors associated with adhesion and recruitment of circulating leukocytes [183]. 
+Regardless of origin, tissue specificity most likely dictates tissue macrophage func­tionality and a spectrum of phenotypes may facilitate tissue-specific functions, includ­ing atherosclerosis—although that has yet to be well established experimentally [169]. 
+
+7.3.2.2 Role in Atherogenesis 
+The retention of apolipoprotein B-rich particles by within areas of the vascular net­work susceptible to atherosclerosis and subsequent engulfment by macrophages can be identified as an important early step in the development of atherosclerotic plaque [184]. Much of the work in identifying these steps have been deduced from murine work, where accelerated atherosclerotic models [185–187] are generated from Ldlr [185, 188] and Apoe [189, 190] knockout mice. Monocyte extravasation into the vas­cular wall [191] as well as the response of tissue-resident macrophages to modified lipoproteins can stimulate both a cytokine response contributing to further leukocyte recruitment and the generation of lipid-laden foam cells, described as macrophages. The role of inflammation and its regulation in atherogenesis and plaque progression, however, is poorly understood [192], and the previous hypothesis of cholesterol uptake by macrophage foam cells causing resultant inflammation has recently been questioned [193]. It is suspected that lipid clearance, through scavenger receptor-mediated endocytosis [194–196], begins as a physiological response of benefit that, following continued exposure to cholesterol without a suitable negative feedback loop, becomes dysregulated with resulting alteration of normal macrophage response [165]. Macrophage foam cells have reduced capacity to emigrate from plaque, thereby contributing to an ongoing inflammatory response, with resulting continued recruit­ment of other immune cells into the plaque [197]. This hypothesis of atherogenesis includes the role played by oxidation of pro-atherogenic lipoproteins [198] and inter­action with proteoglycans [199, 200] in helping to retain them within plaque [200]. Dying macrophages deposit engulfed lipid into the plaque, resulting in a necrotic core that creates an unstable atherosclerotic plaque, implicated in heart attack and stroke, although the process of death may well be a far more complex and regulated sequence of events [201]. 
+Unlike in early atherosclerotic lesions, where mouse models suggest a reliance on monocyte recruitment [202–205], mature plaque macrophage replenishment within the vessel wall is primarily through self-renewal [206, 207]. A more recent concept is the role of intraplaque haemorrhage [208] and the role played by macro­
+phages that deal with iron overload. Macrophages have previously been referred to as either ‘M1’ or ‘M2’ in an attempt to characterise their presumed responses to inflammatory cues; however this bipolar concept, predominantly described through in vitro and murine gene knockout data, may have oversimplified the true nature of physiological differentiation in vivo where a more complex milieu contributes to final macrophage phenotype [209, 210]. Intraplaque haemorrhage is described as an important aspect of plaque progression and a possible driver of ongoing inflamma­tory cell influx [211]. A Mhem macrophage phenotype is described as protective and deactivated, countering the inflammatory drive of iron overload supporting a M1-type response [211–214]. 
+
+
+7.3.3 Dendritic Cells 
+Like macrophages, dendritic cells (DC) can be defined by their origin with some originating from common precursors in the bone marrow, precursors in the blood or circulating monocytes that differentiate into DCs in the peripheral tissue or athero­sclerotic plaque [163]. Whilst recognised as antigen-presenting cells, they also play an important role in promoting tolerance to self-antigens in part through their induc­tion of regulatory T cells [215]. In mouse models, resident DCs that encounter free cholesterol in the arterial adventitia can accumulate lipid [216]. We will not be elaborating on their role further in this chapter; however a more in-depth description of their potential role in atherosclerosis can be found in the review by Cybulsky et al. [217]. 
+
+7.3.4 Neutrophils 
+The most abundant leukocyte in human peripheral blood, neutrophils, is a pro-inflammatory phagocyte and one of the first responders to sites of inflammation, particularly in response to bacterial infection. They rapidly release proteolytic enzymes in order to traverse through extracellular matrix to these sites and further­more degranulate, and this release plays a role in further recruitment and activation of other innate immune cells [218]. The potential role played by neutrophils in both early and late atherosclerotic plaque generation and destabilisation is from data largely extrapolated from mouse models of CVD, and, thus, translation to human mechanistic hypothesis remains to be elucidated. 
+Neutrophils are implicated in atherogenesis through their presence in plaque. Staining for surface markers Ly6G and MPO in murine plaque [219] and for CD177 and CD66b in human carotid [220] and acute coronary lesions [221] helps identify their presence here. Furthermore, identification of degranulation proteins in plaque [222–225] and neutrophil accumulation in early lesions in knockout mice [219] in addition to the role of neutrophil granule effects on vascular permeability [226, 227], their potential ability to recruit monocytes to atherosclerotic plaque [228, 229] and possible activation and foam cell formation in macrophages [230] lends weight to their role as important facets to the process of atherosclerosis. Their ability to secrete proteases and transmigrate through extracellular matrix is proposed as a possible model for alteration of atherosclerotic plaque caps [231], the fragility of which is linked to acute arterial thrombosis seen in acute myocardial infarction [232]. 
+
+7.3.5 Lymphocytes 
+Whilst macrophages may well account for the majority of inflammatory cells within human atherosclerotic plaques [233, 234], lymphocytes have been found in lesions although less abundantly. T cells constitute approximately 10% of cells in human atherosclerotic plaque with 70% of them CD4+ and the remainder CD8+ [235]. In hypercholesterolaemic knockout mice lacking both B and T cells, the atheroscle­rotic effect was reduced to a degree [236–238]. Conversely, a particular subset of T cells known as regulatory T cells (Tregs) are positive for forkhead box P3 (Foxp3+) and are immunosuppressive cells and may provide an anti-inflammatory role in ath­erosclerotic plaque formation [239]. The role of B cells in atherosclerosis remains elusive and poorly understood. Whilst some mouse work suggests that B cells play a potentially protective role [240–243], some conflicting reports point perhaps to a more subset-specific role as either pro- or anti-atherogenic [244, 245]. The review by Hedrick (ATVB, 2015) [246] summarises in greater detail the potential role played by lymphocytes and NK cells in atherosclerosis. 
+
+
+7.4 Summary and Conclusions 
+In summary we have discussed the pathophysiology of CVD, including established risk factors increasing the risk of premature atherosclerosis; the homeostatic pro­cesses involved in the regulation of the cardiovascular system, elaborating on cho­lesterol transport; and the role of lipoproteins in atherogenesis and reverse cholesterol transport. We have also briefly discussed the role of the CNS and the influence this can exert on both cardiovascular homeostasis and on immunity. The role of the innate immune system (monocytes and macrophages) has also been explored in relation to atherosclerotic plaque as well as the role of DCs and neutro­phils. Finally, for completeness, we have included a paragraph on the emerging role seen for lymphocytes in atherosclerotic CVD. 
+In conclusion, the importance of delving further into the individual contributions made by immune cells to atherosclerotic CVD is that they may provide therapeutic targets for treatment of established disease and, perhaps, more pertinently the poten­tial for prevention. Understanding in greater detail the role played by monocytes and macrophages, for instance, in the propagation of atherosclerotic plaque, may provide the ability to develop future therapies that target very specific processes in order to remove or inhibit key steps leading to the establishment of the unstable plaque. 
+
+
+References 
+1. 
+WHO. Global status report on noncommunicable diseases 2010. In: Alwan A, editor. Apps. Who. Int. Geneva; 2010. pp. 1–176. 
+
+2. 
+GBD 2013 Mortality and Causes of Death Collaborators. Global, regional, and national age-sex specific all-cause and cause-specific mortality for 240 causes of death, 1990–2013: a systematic analysis for the global burden of disease study 2013. Lancet. 2015;385:117–71. 
+
+3. 
+Rothwell PM, Coull AJ, Silver LE, Fairhead JF, Giles MF, Lovelock CE, et al. Population-based study of event-rate, incidence, case fatality, and mortality for all acute vascular events in all arterial territories (Oxford vascular study). Lancet. 2005;366:1773–83. 
+
+4. 
+Townsend N, Wickramasinghe K, Bhatnagar P. Coronary heart disease statistics. A compen­dium of health statistics. London: British Heart Foundation; 2012. 
+
+5. 
+Fowkes FGR, Rudan D, Rudan I, Aboyans V, Denenberg JO, McDermott MM, et al. Comparison of global estimates of prevalence and risk factors for peripheral artery disease in 2000 and 2010: a systematic review and analysis. Lancet. 2013;382:1329–40. 
+
+6. 
+Doll R, Peto R, Boreham J, Sutherland I. Mortality in relation to smoking: 50 years’ observa­tions on male British doctors. BMJ. 2004;328:1519–0. 
+
+7. 
+Thun MJ, Myers DG, Day-Lally C. Age and the exposure-response relationships between cigarette smoking and premature death in cancer prevention study II. … D: Changes in …. 1997. 
+
+8. 
+Holt PG, Keast D. Environmentally induced changes in immunological function: acute and chronic effects of inhalation of tobacco smoke and other atmospheric contaminants in man and experimental animals. Bacteriol Rev. 1977;41:205–16. 
+
+9. 
+Reynolds HY. Bronchoalveolar lavage. Am Rev Respir Dis. 1987;135:250–63. 
+
+10. 
+King TE, Savici D, Campbell PA. Phagocytosis and killing of Listeria monocytogenes by alveolar macrophages: smokers versus nonsmokers. J Infect Dis. 1988;158:1309–16. 
+
+11. 
+McCrea KA, Ensor JE, Nall K, Bleecker ER, Hasday JD. Altered cytokine regulation in the lungs of cigarette smokers. Am J Respir Crit Care Med. 1994;150:696–703. 
+
+12. 
+Ferson M, Edwards A, Lind A, Milton GW, Hersey P. Low natural killer-cell activ­ity and immunoglobulin levels associated with smoking in human subjects. Int J Cancer. 1979;23:603–9. 
+
+13. 
+Mathews JD, Whittingham S, Hooper BM, Mackay IR, Stenhouse NS. Association of auto-antibodies with smoking, cardiovascular morbidity, and death in the Busselton population. Lancet. 1973;2:754–8. 
+
+14. 
+Sopori M. Effects of cigarette smoke on the immune system. Nat Rev Immunol. 2002;2:372–7. 
+
+15. 
+Rutan GH, Kuller LH, Neaton JD, Wentworth DN, McDonald RH, Smith WM. Mortality associated with diastolic hypertension and isolated systolic hypertension among men screened for the multiple risk factor intervention trial. Circulation. 1988;77:504–14. 
+
+16. 
+MacMahon S, Peto R, Cutler J, Collins R, Sorlie P, Neaton J, et al. Blood pressure, stroke, and coronary heart disease. Part 1, prolonged differences in blood pressure: prospective observational studies corrected for the regression dilution bias. Lancet. 1990;335:765–74. 
+
+17. 
+Lewington S, Clarke R, Qizilbash N, Peto R, Collins R, Prospective Studies Collaboration. Age-specific relevance of usual blood pressure to vascular mortality: a meta-analysis of indi­vidual data for one million adults in 61 prospective studies. Lancet. 2002;360:1903–13. 
+
+18. 
+O’Donnell M, Mente A, Rangarajan S, McQueen MJ, Wang X, Liu L, et al. Urinary sodium and potassium excretion, mortality, and cardiovascular events. N Engl J Med. 2014;371:612–23. 
+
+19. 
+Chen Z, Smith M, Du H, Guo Y, Clarke R, Bian Z, et al. Blood pressure in relation to gen­eral and central adiposity among 500,000 adult Chinese men and women. Int J Epidemiol. 2015;44:1305–19. 
+
+20. 
+Bautista LE, Vera LM, Arenas IA, Gamarra G. Independent association between inflamma­tory markers (C-reactive protein, interleukin-6, and TNF-|[alpha]|) and essential hyperten­sion. J Hum Hypertens. 2005;19:149–54. 
+
+21. 
+Chae CU, Lee RT, Rifai N, Ridker PM. Blood pressure and inflammation in apparently healthy men. Hypertension. 2001;38:399–403. 
+
+22. 
+Laviades C, Varo N, Díez J. Transforming growth factor Beta in hypertensives with cardiore­nal damage. Hypertension. 2000;36:517–22. 
+
+23. 
+Dörffel Y, Lätsch C, Stuhlmüller B, Schreiber S, Scholze S, Burmester GR, et al. Preactivated peripheral blood monocytes in patients with essential hypertension. Hypertension. 1999;34:113–7. 
+
+24. 
+Frossard PM, Gupta A, Pravica V, Perrey C, Hutchinson IV, Lukic ML. A study of five human cytokine genes in human essential hypertension. Mol Immunol. 2002;38:969–76. 
+
+25. 
+Harrison DG, Guzik TJ, Lob HE, Madhur MS. Inflammation, immunity, and hypertension. Hypertension. 2011;57(2):132–40. 
+
+26. 
+Muller DN, Dechend R, Mervaala EM, Park JK, Schmidt F, Fiebeler A, et al. NF-kappaB inhibition ameliorates angiotensin II-induced inflammatory damage in rats. Hypertension. 2000;35:193–201. 
+
+27. 
+Shagdarsuren E, Wellner M, Braesen J-H, Park J-K, Fiebeler A, Henke N, et al. Complement activation in angiotensin II-induced organ damage. Circ Res. 2005;97:716–24. 
+
+28. 
+Müller DN, Shagdarsuren E, Park J-K, Dechend R, Mervaala E, Hampich F, et al. Immunosuppressive treatment protects against angiotensin II-induced renal damage. Am J Pathol. 2002;161:1679–93. 
+
+29. 
+Wu K-IS, Schmid-Schönbein GW. Nuclear factor kappa B and matrix metalloprotein­ase induced receptor cleavage in the spontaneously hypertensive rat. Hypertension. 2011;57:261–8. 
+
+30. 
+Tostes RCA, Touyz RM, He G, Chen X, Schiffrin EL. Contribution of endothelin-1 to renal activator protein-1 activation and macrophage infiltration in aldosterone-induced hyperten­sion. Clin Sci (Lond). 2002;103(Suppl 48):25S–30S. 
+
+31. 
+Jennings BL, Anderson LJ, Estes AM, Yaghini FA, Fang XR, Porter J, et al. Cytochrome P450 1B1 contributes to renal dysfunction and damage caused by angiotensin II in mice. Hypertension. 2012;59:348–54. 
+
+32. 
+Zubcevic J, Waki H, Raizada MK, Paton JFR. Autonomic-immune-vascular interaction: an emerging concept for neurogenic hypertension. Hypertension. 2011;57:1026–33. 
+
+33. 
+Abboud FM, Harwani SC, Chapleau MW. Autonomic neural regulation of the immune system: implications for hypertension and cardiovascular disease. Hypertension. 2012;59:755–62. 
+
+34. 
+Ryan MJ. An update on immune system activation in the pathogenesis of hypertension. Hypertension. 2013;62:226–30. 
+
+35. 
+Goldstein JL, Brown MS. A century of cholesterol and coronaries: from plaques to genes to statins. Cell. 2015;161:161–72. 
+
+36. 
+Gertler MM, White PD. Coronary heart disease in young adults. A multi-disciplinary study. Science. 1954;120:1–2. 
+
+37. 
+Gofman JW, Delalla O, Glazier F, Freeman NK, Lindgren FT, Nichols AV, et al. The serum lipoprotein transport system in health, metabolic disorders, atherosclerosis and coronary heart disease. J Clin Lipidol. 2007;1:104–41. 
+
+38. 
+Brown MS, Goldstein JL. Familial hypercholesterolemia: defective binding of lipoproteins to cultured fibroblasts associated with impaired regulation of 3-hydroxy-3-methylglutaryl coenzyme A reductase activity. Proc Natl Acad Sci U S A. 1974;71:788–92. 
+
+39. 
+Emerging Risk Factors Collaboration, Sarwar N, Gao P, SRK S, Gobin R, Kaptoge S, et al. Diabetes mellitus, fasting blood glucose concentration, and risk of vascular disease: a col­laborative meta-analysis of 102 prospective studies. Lancet. 2010;375:2215–22. 
+
+40. 
+Emerging Risk Factors Collaboration, SRK S, Kaptoge S, Thompson A, Di Angelantonio E, Gao P, et al. Diabetes mellitus, fasting glucose, and risk of cause-specific death. N Engl J Med. 2011;364:829–41. 
+
+41. 
+Joosten MM, Pai JK, Bertoia ML, Rimm EB, Spiegelman D, Mittleman MA, et al. Associations between conventional cardiovascular risk factors and risk of peripheral artery disease in men. JAMA. 2012;308:1660–7. 
+
+42. 
+Umpierrez GE, Isaacs SD, Bazargan N, You X, Thaler LM, Kitabchi AE. Hyperglycemia: an independent marker of in-hospital mortality in patients with undiagnosed diabetes. J Clin Endocrinol Metab. 2002;87:978–82. 
+
+43. 
+Sampson MJ, Davies IR, Brown JC, Ivory K, Hughes DA. Monocyte and neutrophil adhesion molecule expression during acute hyperglycemia and after antioxidant treatment in type 2 diabetes and control patients. Arterioscler Thromb Vasc Biol. 2002;22:1187–93. 
+
+44. 
+Ceriello A, Falleti E, Motz E, Taboga C, Tonutti L, Ezsol Z, et al. Hyperglycemia-induced circulating ICAM-1 increase in diabetes mellitus: the possible role of oxidative stress. Horm Metab Res. 1998;30:146–9. 
+
+45. 
+Chen NG, Azhar S, Abbasi F, Carantoni M, Reaven GM. The relationship between plasma glucose and insulin responses to oral glucose, LDL oxidation, and soluble intercellular adhe­sion molecule-1 in healthy volunteers. Atherosclerosis. 2000;152:203–8. 
+
+46. 
+Marfella R, Esposito K, Giunta R, Coppola G, De Angelis L, Farzati B, et al. Circulating adhesion molecules in humans: role of hyperglycemia and hyperinsulinemia. Circulation. 2000;101:2247–51. 
+
+47. 
+Ceriello A, Quagliaro L, Piconi L, Assaloni R, Da Ros R, Maier A, et al. Effect of postprandial hypertriglyceridemia and hyperglycemia on circulating adhesion molecules and oxidative stress generation and the possible role of simvastatin treatment. Diabetes. 2004;53:701–10. 
+
+48. 
+Jafar N, Edriss H, Nugent K. The effect of short-term hyperglycemia on the innate immune system. Am J Med Sci. 2016;351:201–11. 
+
+49. 
+Turina M, Fry DE, Polk HC. Acute hyperglycemia and the innate immune system: clinical, cellular, and molecular aspects. Crit Care Med. 2005;33:1624–33. 
+
+50. 
+WHO. Definition and Diagnosis of Diabetes Mellitus and Intermediate Hyperglycemia. Bull. World Health Organ. Geneva: WHO Press; 2006 pp. 1–50. 
+
+51. 
+Deresinski S. Infections in the diabetic patient: Strategies for the clinician. Infect. Dis. Rep. 1995;1:1–12. 
+
+52. 
+Carton JA, Maradona JA, Nuño FJ, Fernandez-Alvarez R, Pérez-Gonzalez F, Asensi V. Diabetes mellitus and bacteraemia: a comparative study between diabetic and non-diabetic patients. Eur J Med. 1992;1:281–7. 
+
+53. 
+Geerlings SE, Hoepelman AI. Immune dysfunction in patients with diabetes mellitus (DM). FEMS Immunol Med Microbiol. 1999;26:259–65. 
+
+54. 
+Katz S, Klein B, Elian I, Fishman P, Djaldetti M. Phagocytotic activity of monocytes from diabetic patients. Diabetes Care. 1983;6:479–82. 
+
+55. 
+West KM. Epidemiology of diabetes and its vascular lesions. New York: Elsevier North-Holland Inc; 1978. p. 234–48. 
+
+56. 
+Barrett-Connor E. Epidemiology, obesity, and non-insulin-dependent diabetes mellitus. Epidemiol Rev. 1989;11:172–81. 
+
+57. 
+Ford ES, Williamson DF, Liu S. Weight change and diabetes incidence: findings from a national cohort of US adults. Am J Epidemiol. 1997;146:214–22. 
+
+58. 
+Reaven GM. Role of insulin resistance in human disease. Diabetes. 1988;37:1595–607. 
+
+59. 
+WHO. Waist circumference and waist-hip ratio: report of a WHO expert consultation, Geneva, 8–11 December 2008. Geneva, CH: World Health Organization; 2014. pp. 23–6. 
+
+60. 
+Flegal KM, Kit BK, Orpana H, Graubard BI. Association of all-cause mortality with over­weight and obesity using standard body mass index categories: a systematic review and meta-analysis. JAMA. 2013;309:71–82. 
+
+61. 
+Hotamisligil GS, Shargill NS, Spiegelman BM. Adipose expression of tumor necrosis factor-alpha: direct role in obesity-linked insulin resistance. Science. 1993;259:87–91. 
+
+62. 
+Olefsky JM, Glass CK. Macrophages, inflammation, and insulin resistance. Annu Rev. 2010;72:219–46. doi:10.1146/annurev-physiol-021909-135846. 
+
+63. 
+Park HS, Park JY, Yu R. Relationship of obesity and visceral adiposity with serum concentra­tions of CRP, TNF-alpha and IL-6. Diabetes Res Clin Pract. 2005;69:29–35. 
+
+64. 
+Festa A, D’Agostino R, Williams K, Karter AJ, Mayer-Davis EJ, Tracy RP, et al. The relation of body fat mass and distribution to markers of chronic inflammation. Int J Obes Relat Metab Disord. 2001;25:1407–15. 
+
+65. 
+Bulló M, García-Lorda P, Megias I, Salas-Salvadó J. Systemic inflammation, adipose tissue tumor necrosis factor, and leptin expression. Obes Res. 2003;11:525–31. 
+
+66. 
+Winer DA, Luck H, Tsai S, Winer S. The intestinal immune system in obesity and insulin resistance. CMET. 2016;23:413–26. 
+
+67. 
+Xu H, Barnes GT, Yang Q, Tan G, Yang D, Chou CJ, et al. Chronic inflammation in fat plays a crucial role in the development of obesity-related insulin resistance. J Clin Invest. 2003;112:1821–30. 
+
+68. 
+Lumeng CN, Bodzin JL, Saltiel AR. Obesity induces a phenotypic switch in adipose tissue macrophage polarization. J Clin Invest. 2007;117:175–84. 
+
+69. 
+Weisberg SP, McCann D, Desai M, Rosenbaum M, Leibel RL, Ferrante AW. Obesity is associated with macrophage accumulation in adipose tissue. J Clin Invest. 2003;112: 1796–808. 
+
+70. 
+Winer S, Chan Y, Paltser G, Truong D, Tsui H, Bahrami J, et al. Normalization of obesity-associated insulin resistance through immunotherapy. Nat Med. 2009;15:921–9. 
+
+71. 
+Nishimura S, Manabe I, Nagasaki M, Eto K, Yamashita H, Ohsugi M, et al. CD8+ effector T cells contribute to macrophage recruitment and adipose tissue inflammation in obesity. Nat Med. 2009;15:914–20. 
+
+72. 
+Winer DA, Winer S, Shen L, Wadia PP, Yantha J, Paltser G, et al. B cells promote insulin resistance through modulation of T cells and production of pathogenic IgG antibodies. Nat Med. 2011;17:610–7. 
+
+73. 
+Wensveen FM, Jelencic V, Valentic S, Šestan M, Wensveen TT, Theurich S, et al. NK cells link obesity-induced adipose stress to inflammation and insulin resistance. Nat Immunol. 2015;16:376–85. 
+
+74. 
+Talukdar S, Oh DY, Bandyopadhyay G, Li D, Xu J, McNelis J, et al. Neutrophils medi­ate insulin resistance in mice fed a high-fat diet through secreted elastase. Nat Med. 2012;18:1407–12. 
+
+75. 
+Malik S, Wong ND, Franklin SS, Kamath TV, L’Italien GJ, Pio JR, et al. Impact of the meta­bolic syndrome on mortality from coronary heart disease, cardiovascular disease, and all causes in United States adults. Circulation. 2004;110:1245–50. 
+
+76. 
+Qatanani M, Lazar MA. Mechanisms of obesity-associated insulin resistance: many choices on the menu. Genes Dev. 2007;21:1443–55. 
+
+77. 
+Odegaard JI, Chawla A. Mechanisms of macrophage activation in obesity-induced insulin resistance. Nat Clin Pract Endocrinol Metab. 2008;4:619–26. 
+
+78. 
+Tobias P, Curtiss LK. Thematic review series: the immune system and atherogenesis. Paying the price for pathogen protection: toll receptors in atherogenesis. J Lipid Res. 2005;46:404–11. 
+
+79. 
+Harrison DG, Guzik TJ, Goronzy J, Weyand C. Is hypertension an immunologic disease? Curr Cardiol Rep. 2008;10:464–9. 
+
+80. 
+Scandinavian Simvastatin Survival Study Group. Randomised trial of cholesterol lowering in 4444 patients with coronary heart disease: the Scandinavian simvastatin survival study (4S). Lancet. 1994;344:1383–9. 
+
+81. 
+Nicholls SJ, Ballantyne CM, Barter PJ, Chapman MJ, Erbel RM, Libby P, et al. Effect of two intensive statin regimens on progression of coronary disease. N Engl J Med. 2011;365:2078–87. 
+
+82. 
+Cannon CP, Braunwald E, McCabe CH, Rader DJ, Rouleau JL, Belder R, et al. Intensive versus moderate lipid lowering with statins after acute coronary syndromes. N Engl J Med. 2004;350:1495–504. 
+
+83. 
+Heart Protection Study Collaborative Group. MRC/BHF heart protection study of cholesterol lowering with simvastatin in 20,536 high-risk individuals: a randomised placebo-controlled trial. Lancet. 2002;360:7–22. 
+
+84. 
+The Long-Term Intervention with Pravastatin in Ischaemic Disease (LIPID) Study Group. Prevention of cardiovascular events and death with pravastatin in patients with coronary heart disease and a broad range of initial cholesterol levels. N Engl J Med. 1998;339:1349–57. 
+
+85. 
+Downs JR, Clearfield M, Weis S, Whitney E, Shapiro DR, Beere PA, et al. Primary prevention of acute coronary events with lovastatin in men and women with average cholesterol levels: results of AFCAPS/TexCAPS. JAMA. 1998;279:1615–22. 
+
+86. 
+Sacks FM, Pfeffer MA, Moye LA, Rouleau JL, Rutherford JD, Cole TG, et al. The effect of pravastatin on coronary events after myocardial infarction in patients with average cholesterol levels. Cholesterol and recurrent events trial investigators. N Engl J Med. 1996;335:1001–9. 
+
+87. 
+Shepherd J, Cobbe SM, Ford I, Isles CG, Lorimer AR, MacFarlane PW, et al. Prevention of coronary heart disease with pravastatin in men with hypercholesterolemia. West of Scotland coronary prevention study group. N Engl J Med. 1995;333:1301–7. 
+
+88. 
+Pedersen TR, Faergeman O, Kastelein JJP, Olsson AG, Tikkanen MJ, Holme I, et al. High-dose atorvastatin vs usual-dose simvastatin for secondary prevention after myocardial infarc­tion: the IDEAL study: a randomized controlled trial. JAMA. 2005;294:2437–45. 
+
+89. 
+LaRosa JC, Grundy SM, Waters DD, Shear C, Barter P, Fruchart J-C, et al. Intensive lipid lowering with atorvastatin in patients with stable coronary disease. N Engl J Med. 2005;352:1425–35. 
+
+90. 
+Ridker PM, Danielson E, Fonseca FAH, Genest J, Gotto AM, Kastelein JJP, et al. Rosuvastatin to prevent vascular events in men and women with elevated C-reactive protein. N Engl J Med. 2008;359:2195–207. 
+
+91. 
+Cholesterol Treatment Trialists’ (CTT) Collaboration, Baigent C, Blackwell L, Emberson J, Holland LE, Reith C, et al. Efficacy and safety of more intensive lowering of LDL choles­terol: a meta-analysis of data from 170,000 participants in 26 randomised trials. Lancet 2010; 376:1670–1681. 
+
+92. 
+Prospective Studies Collaboration, Lewington S, Whitlock G, Clarke R, Sherliker P, Emberson J, et al. Blood cholesterol and vascular mortality by age, sex, and blood pressure: a meta-analysis of individual data from 61 prospective studies with 55,000 vascular deaths. Lancet. 2007;370:1829–39. 
+
+93. 
+Stamler J, Vaccaro O, Neaton JD, Wentworth D, The Multiple Risk Factor Intervention Trial Research Group. Diabetes, other risk factors, and 12-Yr cardiovascular mortality for men screened in the multiple risk factor intervention trial. Diabetes Care. 1993;16:434–44. 
+
+94. 
+Quinn MT, Parthasarathy S, Fong LG, Steinberg D. Oxidatively modified low density lipo­proteins: a potential role in recruitment and retention of monocyte/macrophages during ath­erogenesis. Proc Natl Acad Sci U S A. 1987;84:2995–8. 
+
+95. 
+Parthasarathy S, Quinn MT, Steinberg D. Is oxidized low density lipoprotein involved in the recruitment and retention of monocyte/macrophages in the artery wall during the initiation of atherosclerosis? Basic Life Sci. 1988;49:375–80. 
+
+96. 
+Steinbrecher UP, Parthasarathy S, Leake DS, Witztum JL, Steinberg D. Modification of low density lipoprotein by endothelial cells involves lipid peroxidation and degradation of low density lipoprotein phospholipids. Proc Natl Acad Sci U S A. 1984;81:3883–7. 
+
+97. 
+Steinberg D, Parthasarathy S, Carew TE, Khoo JC, Witztum JL. Beyond cholesterol. Modifications of low-density lipoprotein that increase its atherogenicity. N Engl J Med. 1989;320:915–24. 
+
+98. 
+Carpenter KL, Wilkins GM, Fussell B, Ballantine JA, Taylor SE, Mitchinson MJ, et al. Production of oxidized lipids during modification of low-density lipoprotein by macrophages or copper. Biochem J. 1994;304(Pt 2):625–33. 
+
+99. 
+Folcik VA, Nivar-Aristy RA, Krajewski LP, Cathcart MK. Lipoxygenase contributes to the oxidation of lipids in human atherosclerotic plaques. J Clin Invest. 1995;96:504–10. 
+
+100. 
+Berliner J, Leitinger N, Watson A, Huber J, Fogelman A, Navab M. Oxidized lipids in athero­genesis: formation, destruction and action. Thromb Haemost. 1997;78:195–9. 
+
+101. 
+Parthasarathy S, Santanam N, Ramachandran S, Meilhac O. Potential role of oxidized lipids and lipoproteins in antioxidant defense. Free Radic Res. 2000;33:197–215. 
+
+102. 
+Navab M, Hama SY, Reddy ST, Ng CJ, Van Lenten BJ, Laks H, et al. Oxidized lipids as mediators of coronary heart disease. Curr Opin Lipidol. 2002;13:363–72. 
+
+103. 
+Birukov KG. Oxidized lipids: the two faces of vascular inflammation. Curr Atheroscler Rep. 2006;8:223–31. 
+
+104. 
+Jovinge S, Ares MP, Kallin B, Nilsson J. Human monocytes/macrophages release TNF-alpha in response to Ox-LDL. Arterioscler Thromb Vasc Biol. 1996;16:1573–9. 
+
+105. 
+Terkeltaub R, Banka CL, Solan J, Santoro D, Brand K, Curtiss LK. Oxidized LDL induces monocytic cell expression of interleukin-8, a chemokine with T-lymphocyte chemotactic activity. Arterioscler Thromb. 1994;14:47–53. 
+
+106. 
+Bekkering S, Quintin J, Joosten LAB, van der Meer JWM, Netea MG, Riksen NP. Oxidized low-density lipoprotein induces long-term proinflammatory cytokine production and foam cell formation via epigenetic reprogramming of monocytes. Arterioscler Thromb Vasc Biol. 2014;34:1731–8. 
+
+107. 
+Fuhrman B, Partoush A, Volkova N, Aviram M. Ox-LDL induces monocyte-to-macrophage differentiation in vivo: possible role for the macrophage colony stimulating factor receptor (M-CSF-R). Atherosclerosis. 2008;196:598–607. 
+
+108. 
+Brand K, Banka CL, Mackman N, Terkeltaub RA, Fan ST, Curtiss LK. Oxidized LDL enhances lipopolysaccharide-induced tissue factor expression in human adherent monocytes. Arterioscler Thromb. 1994;14:790–7. 
+
+109. 
+Foster GA, Xu L, Chidambaram AA, Soderberg SR, Armstrong EJ, Wu H, et al. CD11c/ CD18 signals very late antigen-4 activation to initiate foamy monocyte recruitment during the onset of hypercholesterolemia. J Immunol. 2015;195(11):5380–92. 
+
+110. 
+Gower RM, Wu H, Foster GA, Devaraj S, Jialal I, Ballantyne CM, et al. CD11c/CD18 expression is upregulated on blood monocytes during hypertriglyceridemia and enhances adhesion to vascular cell adhesion molecule-1. Arterioscler Thromb Vasc Biol. 2011; 31:160–6. 
+
+111. 
+Jackson WD, Weinrich TW, Woollard KJ. Very-low and low-density lipoproteins induce neu­tral lipid accumulation and impair migration in monocyte subsets. Nature Publishing Group; 2016; pp. 1–12. 
+
+112. 
+Berliner JA, Heinecke JW. The role of oxidized lipoproteins in atherogenesis. Free Radic Biol Med. 1996;20:707–27. 
+
+113. 
+Gordon T, Castelli WP, Hjortland MC, Kannel WB, Dawber TR. High density lipoprotein as a protective factor against coronary heart disease. The Framingham study. Am J Med. 1977;62:707–14. 
+
+114. 
+Emerging Risk Factors Collaboration, Di Angelantonio E, Sarwar N, Perry P, Kaptoge S, Ray KK, et al. Major lipids, apolipoproteins, and risk of vascular disease. JAMA. 2009;302:1993–2000. 
+
+115. 
+Mineo C, Shaul PW. Novel biological functions of high-density lipoprotein cholesterol. Circ Res. 2012;111:1079–90. 
+
+116. 
+Baldán A, Bojanic DD, Edwards PA. The ABCs of sterol transport. J Lipid Res. 2009;50(Suppl):S80–5. 
+
+117. 
+Yvan-Charvet L, Wang N, Tall AR. Role of HDL, ABCA1, and ABCG1 transporters in cho­lesterol efflux and immune responses. Arterioscler Thromb Vasc Biol. 2010;30:139–43. 
+
+118. 
+Barter PJ, Nicholls S, Rye K-A, Anantharamaiah GM, Navab M, Fogelman AM. Antiinflammatory properties of HDL. Circ Res. 2004;95:764–72. 
+
+119. 
+De Nardo D, Labzin LI, Kono H, Seki R, Schmidt SV, Beyer M, et al. High-density lipo­protein mediates anti-inflammatory reprogramming of macrophages via the transcriptional regulator ATF3. Nat Immunol. 2014;15:152–60. 
+
+120. 
+Voight BF, Peloso GM, Orho-Melander M, Frikke-Schmidt R, Barbalic M, Jensen MK, et al. Plasma HDL cholesterol and risk of myocardial infarction: a mendelian randomisation study. Lancet. 2012;380:572–80. 
+
+121. 
+Zanoni P, Khetarpal SA, Larach DB, Hancock-Cerutti WF, Millar JS, Cuchel M, et al. Rare variant in scavenger receptor BI raises HDL cholesterol and increases risk of coronary heart disease. Science. 2016;351:1166–71. 
+
+122. 
+Barter PJ, Caulfield M, Eriksson M, Grundy SM, Kastelein JJP, Komajda M, et al. Effects of torcetrapib in patients at high risk for coronary events. N Engl J Med. 2007;357:2109–22. 
+
+123. 
+AIM-HIGH Investigators, Boden WE, Probstfield JL, Anderson T, Chaitman BR, Desvignes-Nickens P, et al. Niacin in patients with low HDL cholesterol levels receiving intensive statin therapy. N Engl J Med. 2011;365:2255–67. 
+
+124. 
+Schwartz GG, Olsson AG, Ballantyne CM, Barter PJ, Holme IM, Kallend D, et al. Rationale and design of the dal-OUTCOMES trial: efficacy and safety of dalcetrapib in patients with recent acute coronary syndrome. Am Heart J. 2009;158:896–901.e3. 
+
+125. 
+Lambert JE, Parks EJ. Postprandial metabolism of meal triglyceride in humans. BBA Mol Cell Biol Lipids. 2012;1821:721–6. 
+
+126. 
+Redgrave TG. Chylomicron metabolism. Biochem Soc Trans. 2004;32:79–82. 
+
+127. 
+López-Miranda J, Marín C. Chapter 17: dietary, physiological, and genetic impacts on post­prandial lipid metabolism. Fat Detect Taste Texture Post Ingestive Effects. 2010:1–59. 
+
+128. 
+Hartigh den LJ, Altman R, Norman JE, Rutledge JC. Postprandial VLDL lipolysis prod­ucts increase monocyte adhesion and lipid droplet formation via activation of ERK2 and NF.B. Am J Physiol Heart Circ Physiol. 2014;306:H109–20. 
+
+129. 
+Zilversmit DB. Atherogenesis: a postprandial phenomenon. Circulation. 1979;60:473–85. 
+
+130. 
+Nordestgaard BG, Benn M, Schnohr P, Tybjærg-Hansen A. Nonfasting triglycerides and risk of myocardial infarction, ischemic heart disease, and death in men and women. JAMA. 2007;298:299–308. 
+
+131. 
+Nordestgaard BG, Varbo A. Triglycerides and cardiovascular disease. Lancet. 2014;384:626–35. 
+
+132. 
+Chowdhury R, Warnakula S, Kunutsor S, Crowe F, Ward HA, Johnson L, et al. Association of dietary, circulating, and supplement fatty acids with coronary risk: a systematic review and meta-analysis. Ann Intern Med. 2014;160:398–406. 
+
+133. 
+Harcombe Z, Baker JS, Cooper SM, Davies B, Sculthorpe N, DiNicolantonio JJ, et al. Evidence from randomised controlled trials did not support the introduction of dietary fat guidelines in 1977 and 1983: a systematic review and meta-analysis. Open Heart. 2015;2:e000196. 
+
+134. 
+de Souza RJ, Mente A, Maroleanu A, Cozma AI, Ha V, Kishibe T, et al. Intake of satu­rated and trans unsaturated fatty acids and risk of all cause mortality, cardiovascular disease, and type 2 diabetes: systematic review and meta-analysis of observational studies. BMJ. 2015;351:h3978–16. 
+
+135. 
+Siri-Tarino PW, Sun Q, FB H, Krauss RM. Meta-analysis of prospective cohort studies evaluat­ing the association of saturated fat with cardiovascular disease. Am J Clin Nutr. 2010;91:535–46. 
+
+136. 
+Estruch R, Ros E, Salas-Salvadó J, Covas M-I, Corella D, Arós F, et al. Primary prevention of cardiovascular disease with a Mediterranean diet. N Engl J Med. 2013;368:1279–90. 
+
+137. 
+Li R, Wu Y, Manso AM, Gu Y, Liao P, Israeli S, et al. ß1 integrin gene excision in the adult murine cardiac myocyte causes defective mechanical and signaling responses. Am J Pathol. 2012;180:952–62. 
+
+138. 
+Lal H, Verma SK, Smith M, Guleria RS, Lu G, Foster DM, et al. Stretch-induced MAP kinase activation in cardiac myocytes: differential regulation through beta1-integrin and focal adhe­sion kinase. J Mol Cell Cardiol. 2007;43:137–47. 
+
+139. 
+Lal H, Verma SK, Golden HB, Foster DM, Smith M, Dostal DE. Stretch-induced regulation of angiotensinogen gene expression in cardiac myocytes and fibroblasts: opposing roles of JNK1/2 and p38alpha MAP kinases. J Mol Cell Cardiol. 2008;45:770–8. 
+
+140. 
+Verma SK, Lal H, Golden HB, Gerilechaogetu F, Smith M, Guleria RS, et al. Rac1 and RhoA differentially regulate angiotensinogen gene expression in stretched cardiac fibroblasts. Cardiovasc Res. 2011;90:88–96. 
+
+141. 
+Burgess ML, Carver WE, Terracio L, Wilson SP, Wilson MA, Borg TK. Integrin-mediated collagen gel contraction by cardiac fibroblasts. Effects of angiotensin II. Circ Res. 1994;74:291–8. 
+
+142. 
+Dostal DE, Feng H, Nizamutdinov D, Golden HB, Afroze SH, Dostal JD, et al. Mechanosensing and regulation of cardiac function. J Clin Exp Cardiolog. 2014;5:314. 
+
+143. 
+Olshansky B, Sabbah HN, Hauptman PJ, Colucci WS. Parasympathetic nervous system and heart failure: pathophysiology and potential implications for therapy. Circulation. 2008;118:863–71. 
+
+144. 
+Kishi T. Heart failure as an autonomic nervous system dysfunction. J Cardiol. 2012;59:117–22. 
+
+145. 
+Shen MJ, Zipes DP. Role of the autonomic nervous system in modulating cardiac arrhyth­mias. Circ Res. 2014;114:1004–21. 
+
+146. 
+Esler MD, Krum H, Schlaich M, Schmieder RE, Böhm M, Sobotka PA, et al. Renal sym­pathetic denervation for treatment of drug-resistant hypertension: one-year results from the Symplicity HTN-2 randomized, controlled trial. Circulation. 2012;126:2976–82. 
+
+147. 
+Bhatt DL, Kandzari DE, O’Neill WW, D’Agostino R, Flack JM, Katzen BT, et al. A controlled trial of renal denervation for resistant hypertension. N Engl J Med. 2014;370:1393–401. 
+
+148. 
+Khansari DN, Murgo AJ, Faith RE. Effects of stress on the immune system. Immunol Today. 1990;11(5):170. 
+
+149. 
+Segerstrom SC, Miller GE. Psychological stress and the human immune system: a meta-analytic study of 30 years of inquiry. Psychol Bull. 2004;130:601–30. 
+
+150. 
+Heidt T, Sager HB, Courties G, Dutta P, Iwamoto Y, Zaltsman A, et al. Chronic variable stress activates hematopoietic stem cells. Nat Med. 2014;20:754–8. 
+
+151. 
+Nahrendorf M, Swirski FK, Aikawa E, Stangenberg L, Wurdinger T, Figueiredo J-L, et al. The healing myocardium sequentially mobilizes two monocyte subsets with divergent and complementary functions. J Exp Med. 2007;204:3037–47. 
+
+152. 
+Nahrendorf M, Pittet MJ, Swirski FK. Monocytes: protagonists of infarct inflammation and repair after myocardial infarction. Circulation. 2010;121:2437–45. 
+
+153. 
+Swirski FK, Nahrendorf M, Etzrodt M, Wildgruber M, Cortez-Retamozo V, Panizzi P, et al. Identification of splenic reservoir monocytes and their deployment to inflammatory sites. Science. 2009;325:612–6. 
+
+154. 
+Emami H, Singh P, MacNabb M, Vucic E, Lavender Z, Rudd JHF, et al. Splenic metabolic activity predicts risk of future cardiovascular events: demonstration of a cardiosplenic axis in humans. JACC Cardiovasc Imaging. 2015;8:121–30. 
+
+155. 
+van Furth R, Cohn ZA. The origin and kinetics of mononuclear phagocytes. J Exp Med. 1968;128:415–35. 
+
+156. 
+Tsujioka H, Imanishi T, Ikejima H, Kuroi A, Takarada S, Tanimoto T, et al. Impact of hetero­geneity of human peripheral blood monocyte subsets on myocardial salvage in patients with primary acute myocardial infarction. J Am Coll Cardiol. 2009;54:130–8. 
+
+157. 
+Dutta P, Courties G, Wei Y, Leuschner F, Gorbatov R, Robbins CS, et al. Myocardial infarc­tion accelerates atherosclerosis. Nature. 2012;487:325–9. 
+
+158. 
+Gerrity RG. The role of the monocyte in atherogenesis: I. Transition of blood-borne mono­cytes into foam cells in fatty lesions. Am J Pathol. 1981;103:181–90. 
+
+159. 
+Gerrity RG. The role of the monocyte in atherogenesis: II. Migration of foam cells from atherosclerotic lesions. Am J Pathol. 1981;103:191–200. 
+
+160. 
+Cros J, Cagnard N, Woollard KJ, Patey N, Zhang S-Y, Senechal B, et al. Human CD14dim monocytes patrol and sense nucleic acids and viruses via TLR7 and TLR8 receptors. Immunity. 2010;33:375–86. 
+
+161. 
+Woollard KJ, Geissmann F. Monocytes in atherosclerosis: subsets and functions. Nat Rev Cardiol. 2010:1–10. 
+
+162. 
+Combadière C, Potteaux S, Rodero M, Simon T, Pezard A, Esposito B, et al. Combined inhibi­tion of CCL2, CX3CR1, and CCR5 abrogates Ly6C(hi) and Ly6C(lo) monocytosis and almost abolishes atherosclerosis in hypercholesterolemic mice. Circulation. 2008;117:1649–57. 
+
+163. 
+Tacke F, Alvarez D, Kaplan TJ, Jakubzick C, Spanbroek R, Llodra J, et al. Monocyte sub­sets differentially employ CCR2, CCR5, and CX3CR1 to accumulate within atherosclerotic plaques. J Clin Invest. 2007;117:185–94. 
+
+164. 
+Lesnik P, Haskell CA, Charo IF. Decreased atherosclerosis in CX3CR1-/- mice reveals a role for fractalkine in atherogenesis. J Clin Invest. 2003;111:333–40. 
+
+165. 
+Moore KJ, Sheedy FJ, Fisher EA. Macrophages in atherosclerosis: a dynamic balance. Nat Rev Immunol. 2013;13:709–21. 
+
+166. 
+Wong KL, Tai JJ-Y, Wong W-C, Han H, Sem X, Yeap W-H, et al. Gene expression profiling reveals the defining features of the classical, intermediate, and nonclassical human monocyte subsets. Blood. 2011;118:e16–31. 
+
+167. 
+Swirski FK, Libby P, Aikawa E, Alcaide P, Luscinskas FW, Weissleder R, et al. Ly-6Chi monocytes dominate hypercholesterolemia-associated monocytosis and give rise to macro­phages in atheromata. J Clin Invest. 2007;117:195–205. 
+
+168. 
+Yona S, Kim K-W, Wolf Y, Mildner A, Varol D, Breker M, et al. Fate mapping reveals ori­gins and dynamics of monocytes and tissue macrophages under homeostasis. Immunity. 2013;38:79–91. 
+
+169. 
+Ginhoux F, Jung S. Monocytes and macrophages: developmental pathways and tissue homeo­stasis. Nat Rev Immunol. 2014;14:392–404. 
+
+170. 
+Palframan RT, Jung S, Cheng G, Weninger W, Luo Y, Dorf M, et al. Inflammatory chemokine transport and presentation in HEV a remote control mechanism for monocyte recruitment to lymph nodes in inflamed tissues. J Exp Med. 2001;194:1361–74. 
+
+171. 
+Luscinskas FW, Ding H, Tan P, Cumming D, Tedder TF, Gerritsen ME. L- and P-selectins, but not CD49d (VLA-4) integrins, mediate monocyte initial attachment to TNF-alpha-activated vascular endothelium under flow in vitro. J Immunol. 1996;157:326–35. 
+
+172. 
+An G, Wang H, Tang R, Yago T, McDaniel JM, McGee S, et al. P-selectin glycoprotein ligand-1 is highly expressed on Ly-6Chi monocytes and a major determinant for Ly-6Chi monocyte recruitment to sites of atherosclerosis in mice. Circulation. 2008;117:3227–37. 
+
+173. 
+Geissmann F, Jung S, Littman DR. Blood monocytes consist of two principal subsets with distinct migratory properties. Immunity. 2003;19:71–82. 
+
+174. 
+Grage-Griebenow E, Flad HD, Ernst M. Heterogeneity of human peripheral blood monocyte subsets. J Leukoc Biol. 2001;69:11–20. 
+
+175. 
+Jakubzick C, Gautier EL, Gibbings SL, Sojka DK, Schlitzer A, Johnson TE, et al. Minimal differentiation of classical monocytes as they survey steady-state tissues and transport anti­gen to lymph nodes. Immunity. 2013;39:599–610. 
+
+176. 
+Ginhoux F, Greter M, Leboeuf M, Nandi S, See P, Gokhan S, et al. Fate mapping analysis reveals that adult microglia derive from primitive macrophages. Science. 2010;330:841–5. 
+
+177. 
+Schulz C, Gomez Perdiguero E, Chorro L, Szabo-Rogers H, Cagnard N, Kierdorf K, et al. A lineage of myeloid cells independent of Myb and hematopoietic stem cells. Science. 2012;336:86–90. 
+
+178. 
+Hoeffel G, Wang Y, Greter M, See P, Teo P, Malleret B, et al. Adult Langerhans cells derive predominantly from embryonic fetal liver monocytes with a minor contribution of yolk sac-derived macrophages. J Exp Med. 2012;209:1167–81. 
+
+179. 
+Epelman S, Lavine KJ, Beaudin AE, Sojka DK, Carrero JA, Calderon B, et al. Embryonic and adult-derived resident cardiac macrophages are maintained through distinct mechanisms at steady state and during inflammation. Immunity. 2014;40:91–104. 
+
+180. 
+Bain CC, Bravo-Blas A, Scott CL, Gomez Perdiguero E, Geissmann F, Henri S, et al. Constant replenishment from circulating monocytes maintains the macrophage pool in the intestine of adult mice. Nat Immunol. 2014;15:929–37. 
+
+181. 
+Hoeffel G, Chen J, Lavin Y, Low D, Almeida FF, See P, et al. C-Myb(+) erythro-myeloid progenitor-derived fetal monocytes give rise to adult tissue-resident macrophages. Immunity. 2015;42:665–78. 
+
+182. 
+Gomez Perdiguero E, Klapproth K, Schulz C, Busch K, Azzoni E, Crozet L, et al. Tissue-resident macrophages originate from yolk-sac-derived erythro-myeloid progenitors. Nature. 2015;518:547–51. 
+
+183. 
+Ensan S, Li A, Besla R, Degousee N, Cosme J, Roufaiel M, et al. Self-renewing resident arte­rial macrophages arise from embryonic CX3CR1(+) precursors and circulating monocytes immediately after birth. Nat Immunol. 2016;17:159–68. 
+
+184. 
+Moore KJ, Tabas I. Macrophages in the pathogenesis of atherosclerosis. Cell. 2011;145:341–55. 
+
+185. 
+Ishibashi S, Goldstein JL, Brown MS, Herz J, Burns DK. Massive xanthomatosis and ath­erosclerosis in cholesterol-fed low density lipoprotein receptor-negative mice. J Clin Invest. 1994;93:1885–93. 
+
+186. 
+Nakashima Y, Plump AS, Raines EW, Breslow JL, Ross R. ApoE-deficient mice develop lesions of all phases of atherosclerosis throughout the arterial tree. Arterioscler Thromb Vasc Biol. 1994;14:133–40. 
+
+187. 
+Reddick RL, Zhang SH, Maeda N. Atherosclerosis in mice lacking apo E. Evaluation of lesional development and progression. Arterioscler Thromb. 1994;14:141–7. 
+
+188. 
+Ishibashi S, Brown MS, Goldstein JL, Gerard RD, Hammer RE, Herz J. Hypercholesterolemia in low density lipoprotein receptor knockout mice and its reversal by adenovirus-mediated gene delivery. J Clin Invest. 1993;92:883–93. 
+
+189. 
+Plump AS, Smith JD, Hayek T, Aalto-Setälä K, Walsh A, Verstuyft JG, et al. Severe hyper­cholesterolemia and atherosclerosis in apolipoprotein E-deficient mice created by homolo­gous recombination in ES cells. Cell. 1992;71:343–53. 
+
+190. 
+Zhang FX, Kirschning CJ, Mancinelli R, Xu XP, Jin Y, Faure E, et al. Bacterial lipopolysac­charide activates nuclear factor-kappaB through interleukin-1 signaling mediators in cul­tured human dermal endothelial cells and mononuclear phagocytes. J Biol Chem. 1999;274: 7611–4. 
+
+191. 
+Woollard KJ. Immunological aspects of atherosclerosis. Clin Sci. 2013;125:221–35. 
+
+192. 
+Randolph GJ. Mechanisms that regulate macrophage burden in atherosclerosis. Circ Res. 2014;114:1757–71. 
+
+193. 
+Spann NJ, Garmire LX, McDonald JG, Myers DS, Milne SB, Shibata N, et al. Regulated accumulation of desmosterol integrates macrophage lipid metabolism and inflammatory responses. Cell. 2012;151:138–52. 
+
+194. 
+Horiuchi S, Sakamoto Y, Sakai M. Scavenger receptors for oxidized and glycated proteins. Amino Acids. 2003;25:283–92. 
+
+195. 
+Hazen SL. Oxidized phospholipids as endogenous pattern recognition ligands in innate immunity. J Biol Chem. 2008;283:15527–31. 
+
+196. 
+Park YM, Febbraio M, Silverstein RL. CD36 modulates migration of mouse and human mac­rophages in response to oxidized LDL and may contribute to macrophage trapping in the arterial intima. J Clin Invest. 2009;119:136–45. 
+
+197. 
+Randolph GJ. Emigration of monocyte-derived cells to lymph nodes during resolution of inflammation and its failure in atherosclerosis. Curr Opin Lipidol. 2008;19:462–8. 
+
+198. 
+Williams KJ, Tabas I. The response-to-retention hypothesis of early atherogenesis. Arterioscler Thromb Vasc Biol. 1995;15:551–61. 
+
+199. 
+Tabas I. Nonoxidative modifications of lipoproteins in atherogenesis. Annu Rev Nutr. 1999;19:123–39. 
+
+200. 
+Skålén K, Gustafsson M, Rydberg EK, Hultén LM, Wiklund O, Innerarity TL, et al. Subendothelial retention of atherogenic lipoproteins in early atherosclerosis. Nature. 2002;417:750–4. 
+
+201. 
+Libby P, Clinton SK. Cytokines as mediators of vascular pathology. Nouv Rev Fr Hematol. 1992;34(Suppl):S47–53. 
+
+202. 
+Munro JM, Cotran RS. The pathogenesis of atherosclerosis: atherogenesis and inflammation. Lab Investig. 1988;58:249–61. 
+
+203. 
+Ross R. Atherosclerosis – an inflammatory disease. N Engl J Med. 1999;340:115–26. 
+
+204. 
+Libby P, Ridker PM, Maseri A. Inflammation and atherosclerosis. Circulation. 2002;105:1135–43. 
+
+205. 
+de Villiers WJ, Smith JD, Miyata M, Dansky HM, Darley E, Gordon S. Macrophage pheno­type in mice deficient in both macrophage-colony-stimulating factor (op) and apolipoprotein E. Arterioscler Thromb Vasc Biol. 1998;18:631–40. 
+
+206. 
+Robbins CS, Hilgendorf I, Weber GF, Theurl I, Iwamoto Y, Figueiredo J-L, et al. Local proliferation dominates lesional macrophage accumulation in atherosclerosis. Nat Med. 2013;19:1166–72. 
+
+207. 
+Zhu S-N, Chen M, Jongstra-Bilen J, Cybulsky MI. GM-CSF regulates intimal cell prolifera­tion in nascent atherosclerotic lesions. J Exp Med. 2009;206:2141–9. 
+
+208. 
+Rosenfeld ME, Polinsky P, Virmani R, Kauser K, Rubanyi G, Schwartz SM. Advanced atherosclerotic lesions in the innominate artery of the ApoE knockout mouse. Arterioscler Thromb Vasc Biol. 2000;20:2587–92. 
+
+209. 
+Martinez FO, Gordon S. The M1 and M2 paradigm of macrophage activation: time for reas­sessment. F1000Prime Rep. 2014;6:13. 
+
+210. 
+Libby P, Ridker PM, Hansson GK. Progress and challenges in translating the biology of ath­erosclerosis. Nature. 2011;473:317–25. 
+
+211. 
+Boyle JJ. Heme and haemoglobin direct macrophage Mhem phenotype and counter foam cell formation in areas of intraplaque haemorrhage. Curr Opin Lipidol. 2012; 
+
+212. 
+Boyle JJ, Johns M, Kampfer T, Nguyen AT, Game L, Schaer DJ, et al. Activating transcription factor 1 directs Mhem atheroprotective macrophages through coordinated iron handling and foam cell protection. Circ Res. 2012;110:20–33. 
+
+213. 
+Finn AV, Nakano M, Polavarapu R, Karmali V, Saeed O, Zhao X, et al. Hemoglobin directs macrophage differentiation and prevents foam cell formation in human atherosclerotic plaques. J Am Coll Cardiol. 2012;59:166–77. 
+
+214. 
+Boyle JJ, Harrington HA, Piper E, Elderfield K, Stark J, Landis RC, et al. Coronary intra-plaque hemorrhage evokes a novel atheroprotective macrophage phenotype. Am J Pathol. 2009;174:1097–108. 
+
+215. 
+Steinman RM. Decisions about dendritic cells: past, present, and future. Annu Rev Immunol. 2012;30:1–22. 
+
+216. 
+Paulson KE, Zhu S-N, Chen M, Nurmohamed S, Jongstra-Bilen J, Cybulsky MI. Resident intimal dendritic cells accumulate lipid and contribute to the initiation of atherosclerosis. Circ Res. 2010;106:383–90. 
+
+217. 
+Cybulsky MI, Cheong C, Robbins CS. Macrophages and dendritic cells partners in athero­genesis. Circ Res. 2016;118:637–52. 
+
+218. 
+Soehnlein O, Weber C, Lindbom L. Neutrophil granule proteins tune monocytic cell function. Trends Immunol. 2009;30:538–46. 
+
+219. 
+van Leeuwen M, Gijbels MJJ, Duijvestijn A, Smook M, van de Gaar MJ, Heeringa P, et al. Accumulation of myeloperoxidase-positive neutrophils in atherosclerotic lesions in LDLR-/- mice. Arterioscler Thromb Vasc Biol. 2008;28:84–9. 
+
+220. 
+Ionita MG, van den Borne P, Catanzariti LM, Moll FL, de Vries J-PPM, Pasterkamp G, et al. High neutrophil numbers in human carotid atherosclerotic plaques are associated with char­acteristics of rupture-prone lesions. Arterioscler Thromb Vasc Biol. 2010;30:1842–8. 
+
+221. 
+Naruko T, Ueda M, Haze K, van der Wal AC, van der Loos CM, Itoh A, et al. Neutrophil infiltration of culprit lesions in acute coronary syndromes. Circulation. 2002;106: 2894–900. 
+
+222. 
+Lee TD, Gonzalez ML, Kumar P, Chary-Reddy S, Grammas P, Pereira HA. CAP37, a novel inflammatory mediator. Am J Pathol. 2002;160:841–8. 
+
+223. 
+Edfeldt K, Agerberth B, Rottenberg ME, Gudmundsson GH, Wang X-B, Mandal K, et al. Involvement of the antimicrobial peptide LL-37 in human atherosclerosis. Arterioscler Thromb Vasc Biol. 2006;26:1551–7. 
+
+224. 
+Barnathan ES, Raghunath PN, Tomaszewski JE, Ganz T, Cines DB, Higazi A a-R. Immunohistochemical localization of defensin in human coronary vessels. Am J Pathol. 1997;150:1009–20. 
+
+225. 
+Hemdahl A-L, Gabrielsen A, Zhu C, Eriksson P, Hedin U, Kastrup J, et al. Expression of neutrophil gelatinase-associated lipocalin in atherosclerosis and myocardial infarction. Arterioscler Thromb Vasc Biol. 2006;26:136–42. 
+
+226. 
+Wedmore CV, Williams TJ. Control of vascular permeability by polymorphonuclear leuko­cytes in inflammation. Nature. 1981;289:646–50. 
+
+227. 
+Soehnlein O, Xie X, Ulbrich H, Kenne E, Rotzius P, Flodgaard H, et al. Neutrophil-derived heparin-binding protein (HBP/CAP37) deposited on endothelium enhances monocyte arrest under flow conditions. J Immunol. 2005;174:6399–405. 
+
+228. 
+Soehnlein O, Zernecke A, Eriksson EE, Rothfuchs AG, Pham CT, Herwald H, et al. Neutrophil secretion products pave the way for inflammatory monocytes. Blood. 2008;112:1461–71. 
+
+229. 
+Chertov O, Ueda H, Xu LL, Tani K, Murphy WJ, Wang JM, et al. Identification of human neutrophil-derived cathepsin G and azurocidin/CAP37 as chemoattractants for mononuclear cells and neutrophils. J Exp Med. 1997;186:739–47. 
+
+230. 
+Gombart AF, Krug U, O’Kelly J, An E, Vegesna V, Koeffler HP. Aberrant expression of neu­trophil and macrophage-related genes in a murine model for human neutrophil-specific gran­ule deficiency. J Leukoc Biol. 2005;78:1153–65. 
+
+231. 
+Leclercq A, Houard X, Philippe M, Ollivier V, Sebbag U, Meilhac O, et al. Involvement of intraplaque hemorrhage in atherothrombosis evolution via neutrophil protease enrichment. J Leukoc Biol. 2007;82:1420–9. 
+
+232. 
+Stone GW, Maehara A, Lansky AJ, de Bruyne B, Cristea E, Mintz GS, et al. A prospective natural-history study of coronary atherosclerosis. N Engl J Med. 2011;364:226–35. 
+
+233. 
+Libby P. Inflammation in atherosclerosis. Arterioscler Thromb Vasc Biol. 2012;32:2045–51. 
+
+234. 
+Aubry M-C, Riehle DL, Edwards WD, Maradit-Kremers H, Roger VL, Sebo TJ, et al. B-lymphocytes in plaque and adventitia of coronary arteries in two patients with rheumatoid arthritis and coronary atherosclerosis. Cardiovasc Pathol. 2004;13:233–6. 
+
+235. 
+Jonasson L, Holm J, Skalli O, Bondjers G, Hansson GK. Regional accumulations of T cells, macrophages, and smooth muscle cells in the human atherosclerotic plaque. Arteriosclerosis. 1986;6:131–8. 
+
+236. 
+Reardon CA, Blachowicz L, White T, Cabana V, Wang Y, Lukens J, et al. Effect of immune deficiency on lipoproteins and atherosclerosis in male apolipoprotein E-deficient mice. Arterioscler Thromb Vasc Biol. 2001;21(6):1011. 
+
+237. 
+Dansky HM, Charlton SA. T and B lymphocytes play a minor role in atherosclerotic plaque formation in the apolipoprotein E-deficient mouse. Proc Natl Acad Sci U S A. 1997;94(9):4642–6. 
+
+238. 
+Zhou X, Nicoletti A, Elhage R, Hansson GK. Transfer of CD4(+) T cells aggravates atheroscle­rosis in immunodeficient apolipoprotein E knockout mice. Circulation. 2000;102:2919–22. 
+
+239. 
+Ketelhuth DFJ, Hansson GK. Adaptive response of T and B cells in atherosclerosis. Circ Res. 2016;118:668–78. 
+
+240. 
+Caligiuri G, Nicoletti A, Poirier B, Hansson GK. Protective immunity against atherosclerosis carried by B cells of hypercholesterolemic mice. J Clin Invest. 2002;109:745–53. 
+
+241. 
+Major AS, Fazio S, Linton MF. B-lymphocyte deficiency increases atherosclerosis in LDL receptor-null mice. Arterioscler Thromb Vasc Biol. 2002;22:1892–8. 
+
+242. 
+Kyaw T, Tay C, Krishnamurthi S, Kanellakis P. B1a B lymphocytes are atheroprotective by secreting natural IgM that increases IgM deposits and reduces necrotic cores in atheroscle­rotic lesions. Circulation. 2011;109(8):830–40. 
+
+243. 
+Rosenfeld SM, Perry HM, Gonen A, Prohaska TA, Srikakulapu P, Grewal S, et al. B-1b cells secrete atheroprotective IgM and attenuate atherosclerosis. Circ Res. 2015;117:e28–39. 
+
+244. 
+Kyaw T, Tay C, Khan A, Dumouchel V, Cao A, To K, et al. Conventional B2 B cell deple­tion ameliorates whereas its adoptive transfer aggravates atherosclerosis. J Immunol. 2010;185:4410–9. 
+
+245. 
+Clement M, Guedj K, Andreata F, Morvan M, Bey L, Khallou-Laschet J, et al. Control of the T follicular helper-germinal center B-cell axis by CD8+ regulatory T cells limits atheroscle­rosis and tertiary lymphoid organ development. Circulation. 2015;131:560–70. 
+
+246. 
+Hedrick CC. Lymphocytes in atherosclerosis. Arterioscler Thromb Vasc Biol. 2015;35:253–7. 
+
+
+
+
